@@ -45,7 +45,7 @@ This Discord group is for if you want to voice communicate while on the server!
         <li>Move Folder 'PCMod' to Desktop or whereever you would like to store it</li>
         <li>Run PCMod.hta (Will Create Shortcut on desktop)</li>
         <br>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Wbc9MxnsPpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <a href="https://www.youtube.com/embed/Wbc9MxnsPpw">Youtube Video</a> explains this in more detail.
 </ol>
 <ol><h2>Linux/Mac (ModPack)</h2>
         <li>Download <a href="ModPack.zip">ModPack.zip</a>. (Size: ~700Mb)</li>
