@@ -36,3 +36,31 @@ Plattecraft Server is a server that is mostly played by people in Platteville, W
 Click <a href="https://discord.gg/AJaVhvR">here</a> to join the Discord Group for Plattecraft Server.<br>
 This Discord group is for if you want to voice communicate while on the server!
 <hr>
+
+
+
+<ol><h2>Windows (PCMod)</h2>
+        <li>Download <a href="PCMod2.zip">PCMod2.zip</a>. (Size: 750Mb)</li>
+        <li>Extract PCMod.zip</li>
+        <li>Move Folder 'PCMod' to Desktop or whereever you would like to store it</li>
+        <li>Run PCMod.hta (Will Create Shortcut on desktop)</li>
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Wbc9MxnsPpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ol>
+<ol><h2>Linux/Mac (ModPack)</h2>
+        <li>Download <a href="ModPack.zip">ModPack.zip</a>. (Size: ~700Mb)</li>
+        <li>Extract Modpack.zip</li>
+        <li>Run bin/Minecraft.jar once to create the .minecraft folder in /home/(user)/
+        <li>Move all files from folder to .minecraft folder in /home/(user)/.minecraft</li>
+        <li>Launch Minecraft</li>
+</ol>
+<ol><h2>Technic Launcher (ModPack)</h2>
+        <li>Launch Technic Launcher (Download it <a href="https://www.technicpack.net/download" target="_blank">here</a>)</li>
+        <li>Search for <a href="https://www.technicpack.net/modpack/pcm0d.1562803">PCMod</a></li>
+        <li>Download and Play</li>
+</ol>
+<ol><h2>Windows Installer (Downloader)</h2>
+        <li>Download <a href="InstallPCMod.exe">InstallPCMod.exe</a>. (Size: ~875kb)</li>
+        <li>Run Installerd.exe</li>
+        <li>Run PCMod on your desktop, or hit any key when installation is complete.</li>
+</ol>
