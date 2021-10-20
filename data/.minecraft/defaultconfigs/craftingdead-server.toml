@@ -1,0 +1,6 @@
+
+[server]
+	hydrationEnabled = false
+	brokenLegsEnabled = true
+	bleedingEnabled = true
+

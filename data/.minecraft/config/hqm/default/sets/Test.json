@@ -1,0 +1,36 @@
+{
+  "name": "Test",
+  "quests": [
+    {
+      "uuid": "ad4acfbc-544b-4e7b-8cfa-f096510ac023",
+      "name": "Coin Maker",
+      "description": "Get first coin",
+      "x": 29,
+      "y": 20,
+      "icon": {
+        "id": "markscoins:coiniron",
+        "Count": 1
+      },
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "markscoins:coiniron",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "markscoins:coiniron",
+          "Count": 1
+        },
+        {
+          "id": "markscoins:coiniron",
+          "Count": 1
+        }
+      ],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

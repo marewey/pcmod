@@ -1,0 +1,68 @@
+{
+  "member": {
+    "name": "Member",
+    "power": 1,
+	"parent": "builtin_player",
+    "condition": {
+      "type": "always_active"
+    },
+    "ftbranks.name_format": "<{name}>"
+	"permissions": [
+        "+commands.rtp"
+		"+command.ftbteams.create"
+		"+command.ftbteams.create.name"
+    ],
+  },
+  "vip": {
+    "name": "VIP",
+    "power": 50,
+	"parent": "member",
+    "ftbranks.name_format": "<&bVIP {name}&r>"
+	"permissions": [
+         "+commands.rtp"
+         "+command.home"
+		 "+command.home.name"
+		 "+command.jail"
+         "+commands.tp"
+    ],
+  },
+  "moderator": {
+    "name": "Mod",
+    "power": 100,
+	"parent": "vip",
+    "ftbranks.name_format": "<&dMod {name}&r>"
+	"permissions": [
+         "+commands.rtp"
+         "+command.home"
+		 "+command.home.name"
+		 "+command.jail"
+         "+commands.tp"
+		 "+command.ll.set"
+    ],
+  },
+  "admin": {
+    "name": "Admin",
+    "power": 500,
+	"parent": "moderator",
+    "ftbranks.name_format": "<&dAdmin {name}&r>"
+	"permissions": [
+        "+command.kick"
+		"+command.kick.targets"
+		"+command.kick.targets.reason"
+		"+command.ll.set.*"
+		"+command.locate"
+		"+command.locate.*"
+    ],
+  },
+  "owner": {
+    "name": "Owner",
+    "power": 1000,
+    "condition": {
+      "type": "op"
+    },
+	"permissions": [
+         "+*"
+    ],
+    "ftbranks.name_format": "<&cOwner {name}&r>"
+  }
+}

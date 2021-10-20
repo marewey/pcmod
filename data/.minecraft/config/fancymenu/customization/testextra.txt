@@ -1,0 +1,205 @@
+type = menu
+
+customization-meta {
+  identifier = testextra
+  renderorder = foreground
+}
+
+customization {
+  path = ..\icons\background.png
+  action = texturizebackground
+}
+
+customization {
+  orientation = bottom-left
+  shape = rectangle
+  color = #101010D0
+  x = 2
+  width = 100
+  action = addshape
+  y = -148
+  height = 84
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -92
+  width = 180
+  action = addbutton
+  y = -44
+  label = PCMod2 Website
+  value = http://markspi.ddns.me/pcmod2
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shape = rectangle
+  color = #f0f0f0E9
+  x = 2
+  width = 100
+  action = addshape
+  y = -161
+  height = 13
+}
+
+customization {
+  path = ../icons/pcmod.png
+  orientation = mid-centered
+  x = -167
+  width = 330
+  action = addtexture
+  y = -114
+  height = 64
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -30
+  scale = 1.0
+  value = Minecraft 1.16.5
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  multiline = false
+  x = 41
+  action = addwebtext
+  y = -58
+  scale = 1.0
+  url = http://markspi.ddns.me/pcmod2/version
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -40
+  scale = 1.0
+  value = Forge 36.1.13
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -58
+  scale = 1.0
+  value = §e§lP§b§lC§3§lMod§r
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -49
+  scale = 1.0
+  value = §ePlattecraft §bServer §3Modded Client
+}
+
+customization {
+  orientation = bottom-centered
+  onlydisplayin = outgame
+  buttonaction = opengui
+  x = -50
+  width = 100
+  action = addbutton
+  y = -20
+  label = Back
+  value = net.minecraft.client.gui.screen.MainMenuScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = runscript
+  x = -92
+  width = 180
+  action = addbutton
+  y = -22
+  label = Whitelist your Username
+  value = ..\..\cmd\settings.bat whitelist
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 4
+  action = addtext
+  y = -158
+  scale = 1.0
+  value = §rPlayers Online:
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -92
+  width = 180
+  action = addbutton
+  y = 0
+  label = Plattecraft Rewards
+  value = http://markspi.ddns.me/pcmod2/reward.html
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  hoverlabel = Connect to Plattecraft...
+  buttonaction = opengui
+  x = -92
+  width = 180
+  action = addbutton
+  y = 22
+  label = Connect to Plattecraft
+  value = net.minecraft.client.gui.screen.MultiplayerScreen
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  multiline = true
+  x = 4
+  action = addwebtext
+  y = -145
+  scale = 1.0
+  url = http://markspi.ddns.me/pcmod2/players/list
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -20
+  scale = 1.0
+  value = Local Network
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -10
+  scale = 1.0
+  value = Java 1.8.0_202
+}
+

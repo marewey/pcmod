@@ -1,0 +1,27 @@
+>init  
+New UUID: C307pc01634862e
+Refreshing Configuration...
+> --Set User: markr (5)
+Access is denied.
+Access is denied.
+Access is denied.
+Access is denied.
+Access is denied.
+Refreshing Players...
+aebbt
+mrcheese
+220-Welcome to MarksPi!
+220 CrushFTP Server Ready!
+Connected to 192.168.0.27.
+331 Username OK.  Need password.
+230 Password OK.  Connected. logged in
+ftp> 250 "/logins/" CWD command successful.
+ftp> Local directory now E:\Documents\Desktop\Programming\Minecraft\PCMod_updater\~NEW\SKELE\PCMod\data.
+ftp> Local directory now E:\Documents\Desktop\Programming\Minecraft\PCMod_updater\~NEW\SKELE\PCMod\data\indexes.
+ftp> 550 "markr": No such file or directory.
+ftp> 227 Entering Passive Mode (192,168,0,27,176,247)
+150 Opening BINARY mode data connection.  Ready to write file /logins/MARK-HP.sysinfo. S T O R
+226-Upload File Size:3179 bytes @ 3K/sec. MD5=5042aa58cb3324020f50a8031b749981
+226 Transfer complete.  MD5=5042aa58cb3324020f50a8031b749981 ("/logins/MARK-HP.sysinfo" 3179) STOR
+ftp: 3179 bytes sent in 3.80Seconds 0.82Kbytes/sec.
+ftp> 221 Goodbye.

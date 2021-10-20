@@ -1,0 +1,47 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screen.DirtMessageScreen {
+}
+
+net.minecraft.client.gui.screen.IngameMenuScreen {
+}
+
+net.minecraft.client.gui.screen.ConfirmOpenLinkScreen {
+}
+
+net.minecraft.client.gui.screen.WorldLoadProgressScreen {
+}
+
+net.optifine.gui.GuiQualitySettingsOF {
+}
+
+net.minecraft.client.gui.screen.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsScreen {
+}
+
+net.minecraft.client.gui.screen.LanguageScreen {
+}
+
+ichttt.mods.sounddeviceoptions.client.gui.GuiSound {
+}
+
+net.minecraft.client.gui.screen.CustomizeSkinScreen {
+}
+
+net.optifine.gui.GuiPerformanceSettingsOF {
+}
+
+net.optifine.gui.GuiDetailSettingsOF {
+}
+
+net.optifine.gui.GuiAnimationSettingsOF {
+}
+
+net.optifine.gui.GuiOtherSettingsOF {
+}
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+
