@@ -1,0 +1,4 @@
+shortcut=1
+direct=1
+log-logins=1
+lite=0

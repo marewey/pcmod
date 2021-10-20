@@ -1,0 +1,37 @@
+
+#World-generation settings
+[world_generation]
+
+	#Settings for tools, affect the way these tools work
+	[world_generation.tool_settings]
+
+		#Settings for the Enderite Bow, do only affect the bow and no other tools
+		[world_generation.tool_settings.enderite_bow]
+			#
+			#Determines the base damage of the bow, i.e. how many damage you will cause with one single arrow (default: 1.5)
+			#Range: 0.0 ~ 255.0
+			bow_base_damage = 1.5
+			#
+			#Determines the time you need to fully charge the Enderite Bow (charge time or draw speed), default value is '30.0', which is nearly the same as the vanilla bow
+			#Range: 1.0 ~ 255.0
+			charge_time = 30.0
+
+	#Enderite settings
+	[world_generation.enderite_generation]
+		#
+		#Top offset for enderite ore generation, based on maximum height, e.g. if you choose this value as '12' (default value), ore will only be generated below y = maximum - 12
+		#Range: 0 ~ 255
+		top_offset = 12
+		#
+		#How many enderite ore should be generated per chunk (default: 3)
+		#Range: 1 ~ 255
+		count = 3
+		#
+		#Maximum height for enderite ore generation, has to be greater than 'top_offset', default value is '48'
+		#Range: 1 ~ 255
+		maximum = 48
+		#
+		#Bottom offset for enderite ore generation, e.g. if you choose this value as '12' (default value), ore will only be generated above y = 12
+		#Range: 0 ~ 255
+		bottom_offset = 12
+

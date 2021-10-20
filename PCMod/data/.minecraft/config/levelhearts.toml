@@ -1,0 +1,44 @@
+
+[General]
+	#When enabled, an extra level of debugging output will be provided to the logs.
+	Debug = false
+	#When enabled, the player's health will get reset back to default on death. Overrides punish amount.
+	Hardcore = false
+	#When disabled, LevelHearts' items' functionality will be disabled.
+	Items = true
+	#When disabled, LevelHearts will not spawn heart pieces and heart containers in chests around the world.
+	Loot = false
+	#When enabled, upon any damage to the player, the player will immediately die. "One-Hit Knockout"
+	Ohko = false
+
+[Health]
+	#The amount of health a user will have in a new game or after death.
+	#Range: 1 ~ 200
+	"Default Health" = 20
+	#The maximum amount of health LevelHearts will allow a user to have. -1 to disable.
+	#Range: -1 ~ 1024
+	"Maximum Health" = 512
+	#The levels at which a user will gain a heart.
+	"Level Ramp" = [1, 2, 4, 6, 8, 10, 12, 14, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 100, 120, 140, 160, 180, 200, 250, 300, 350, 400, 450, 500, 1000, 1500, 2000, 3000, 4000, 5000, 10000, 50000, 100000, 500000, 1000000]
+	#How many hearts (not health) to take away from the user each time they die. -1 to disable.
+	#Range: -1 ~ 10
+	"Punish Health" = 1
+
+[Gui]
+	#When disabled, LevelHearts will not modify the hud at all. Only use if you're having conflicts with other mods.
+	"LevelHearts HUD" = true
+	#When enabled, the health will display in only one row with a number to the left indicating the row you're on.
+	"LevelHearts Minimal HUD" = true
+	#When enabled, health will not be displayed at all. Works well in combination with one-hit knockout.
+	"LevelHearts Hidden HUD" = false
+
+[Experience]
+	#How much to multiply the value of experience by.
+	#Range: 0.0 ~ 1024.0
+	"XP Multiplier" = 0.95
+	#When enabled, the mod will force players to lose their experience even if the KeepInventory gamerule is enabled.
+	"Always Lose XP on Death" = false
+	#When enabled, the mod will force players to lose their items even if the KeepInventory gamerule is enabled.
+	#If using a setting to lose health upon death, often health will be regained through experience after respawning, which can be confusing.
+	"Always Lose Inventory on Death" = false
+

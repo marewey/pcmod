@@ -1,0 +1,7 @@
+
+[Settings]
+	#How long it takes for the hearthstone to teleport you. Measured in ticks (20 ticks = 1 second). Default: 200 ticks (10 seconds)
+	ChannelTime = 200
+	#How long you must wait between hearthstone uses. Measured in ticks (20 ticks = 1 second). Default: 36000 ticks (30 minutes)
+	Cooldown = 36000
+

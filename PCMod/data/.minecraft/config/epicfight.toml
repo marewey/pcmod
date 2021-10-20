@@ -1,0 +1,11 @@
+
+[custom_weaponry]
+
+	[custom_weaponry.sample]
+		registry_name = "epicfight:registryname"
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "AXE, SWORD, GREATSWORD, KATANA"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+

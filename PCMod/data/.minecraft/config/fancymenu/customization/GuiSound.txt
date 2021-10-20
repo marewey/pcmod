@@ -1,0 +1,12 @@
+type = menu
+
+customization-meta {
+  identifier = ichttt.mods.sounddeviceoptions.client.gui.GuiSound
+  renderorder = foreground
+}
+
+customization {
+  path = ..\icons\background.png
+  action = texturizebackground
+}
+

@@ -1,0 +1,15 @@
+#The time in ticks in which a player can still be rescued from death.
+maxDeathTicks = 2400
+#Set to true to completely disable the death timer, meaning you will have infinite time to save others.
+disableDeathTimer = false
+#The distance at which a player can rescue another.
+maxRescueDist = 5.0
+#The time in ticks it takes to rescue a player.
+rescueTime = 40
+#The amount of health to respawn with when a player was rescued, out of 20.
+rescueRespawnHealth = 5
+#The food level to respawn with when a player was rescued, out of 20.
+rescueRespawnFoodLevel = 5
+#If true, knocked out players will glow, making them visible through blocks.
+glowOnDeath = true
+

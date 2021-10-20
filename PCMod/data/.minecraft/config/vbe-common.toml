@@ -1,0 +1,21 @@
+
+#General Settings
+[general]
+	#Include fence variants in the game.
+	includeFences = false
+	#Include fence gate variants in the game.
+	includeGates = false
+	#Include slab variants in the game.
+	includeSlabs = true
+	#Include stair variants in the game.
+	includeStairs = true
+	#Include wall variants in the game.
+	includeWalls = true
+
+#Crafting Settings
+[crafting]
+	#Allows crafting of grass blocks.
+	grassCrafting = true
+	#Allows crafting of concrete blocks.
+	concreteCrafting = false
+

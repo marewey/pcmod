@@ -1,0 +1,434 @@
+<html>
+<head>
+   <HTA:APPLICATION
+   ID = "PCMod"
+   APPLICATIONNAME = "PCMod"
+   BORDER = "thin"
+   CAPTION = "yes"
+   ICON = "data\icons\icon.ico"
+   SHOWINTASKBAR = "yes"
+   SINGLEINSTANCE = "yes"
+   SYSMENU = "yes"
+   WINDOWSTATE = "normal"
+   SCROLL = "no"
+   SCROLLFLAT = "yes"
+   VERSION = "2.0.0"
+   INNERBORDER = "no"
+   SELECTION = "yes"
+   MAXIMIZEBUTTON = "yes"
+   MINIMIZEBUTTON = "yes"
+   NAVIGABLE = "yes"
+   CONTEXTMENU = "yes"
+   BORDERSTYLE = "normal"
+   >
+<meta name="viewport" content="width=device-width, initial-scale=0.9">
+<style>
+ /* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 228px; /* Set the width of the sidebar */
+  position: absolute;
+  z-index: 1; /* Stay on top */
+  top: 5; /* Stay at the top */
+  left: 5;
+  background-color: #566573; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 2px;
+}
+.playernav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: absolute;
+  z-index: 1; /* Stay on top */
+  top: 5; /* Stay at the top */
+  right: 5px;
+  background-color: #566573; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 2px;
+}
+/* The navigation menu links */
+.sidenav button {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  display: block;
+  font: 18px
+  font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+/* Style page content */
+.main {
+  margin-top: 30px;
+  margin-left: 228px; /* Same as the width of the sidebar */
+  margin-right: 165px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+} 
+
+/* ======= ORIGINAL ======== */
+body {
+    background: url(data\icons\dirt.png) repeat 0 0;
+	background-color:#5d6d7e;
+	color:000000;
+	border-color:#707b7c
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+button {
+	background-color:#ccd1d1;
+	color:#111112;
+	font: 25px
+}
+input {
+	background-color:#ccd1d1;
+	color:#566573;
+	align: right
+}
+#title {
+    text-align:center;
+    padding:2px;
+    font-size:15px;
+}
+#content {
+    background-color:#566573;
+    color:black;
+    text-align:left;
+    padding:10px;
+}
+#menu {
+    background-color:#5d6d7e;
+    color:black;
+    text-align:left;
+    padding:10px;
+	font: 25px;
+}
+#menu2 {
+    background-color:#5d6d7e;
+    color:black;
+    text-align:left;
+    padding:1px;
+	font: 24px;
+}
+#user {
+    background-color:#ccd1d1;
+    color:black;
+    text-align:right;
+    padding:3px;
+}
+#pass {
+    background-color:#ccd1d1;
+    color:black;
+    text-align:right;
+    padding:3px;
+}
+#version {
+    text-align:right;
+    padding:1px;
+}
+
+input.largerCheckbox { 
+    width: 30px; 
+    height: 30px; 
+}
+</style>
+<script language="VBScript">
+Function FileExists(FilePath)
+  Set fso = CreateObject("Scripting.FileSystemObject")
+  If fso.FileExists(FilePath) Then
+    FileExists=CBool(1)
+  Else
+    FileExists=CBool(0)
+  End If
+End Function
+Sub sleep (Timesec)
+    Set objwsh = CreateObject("WScript.Shell") 
+    objwsh.Run "Timeout /T " & Timesec & " /nobreak" ,0 ,true
+    Set objwsh = Nothing
+End Sub
+Sub RunProgram
+		Set Shell=CreateObject("wscript.shell") 
+		Shell.Run ("cmd\launch.bat launcher >data\launch.log 2>&1"),0
+End Sub
+Sub RunUpdate
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat update"),1
+End Sub
+Sub PromoSend
+	Set Shell=CreateObject("wscript.shell") 
+	promo = document.getElementById("PromoCode").value
+	Shell.Run ("cmd\settings.bat promo " & promo & " 2>data\error.log"),0
+	document.getElementById("PromoCode").value=SENT
+End Sub
+Sub UserChange
+	Set Shell=CreateObject("wscript.shell") 
+	userr = document.getElementById("user").value
+	Shell.Run ("cmd\settings.bat user " & userr & " 2>>data\error.log"),0
+End Sub
+Sub PassChange
+	Set Shell=CreateObject("wscript.shell") 
+	passs = document.getElementById("pass").value
+	Shell.Run ("cmd\settings.bat pass " & passs & " 2>>data\error.log"),0
+	document.getElementById("pass").value = empty
+End Sub
+Sub PassSetup
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat web auth 2>>data\error.log"),0
+End Sub
+Sub SettingsShortcut
+	Set Shell=CreateObject("wscript.shell") 
+		If Shortcut.Checked Then
+			Shell.Run ("cmd\settings.bat shortcut 1 2>>data\error.log"),0
+		Else
+			Shell.Run ("cmd\settings.bat shortcut 0 2>>data\error.log"),0
+		End If
+End Sub
+Sub SettingsDirect
+	Set Shell=CreateObject("wscript.shell") 
+		If Direct.Checked Then
+			Shell.Run ("cmd\settings.bat direct 1 2>>data\error.log"),0
+		Else
+			Shell.Run ("cmd\settings.bat direct 0 2>>data\error.log"),0
+		End If
+End Sub
+Sub SettingsLL
+	Set Shell=CreateObject("wscript.shell") 
+		If LL.Checked Then
+			Shell.Run ("cmd\settings.bat log-logins 1 2>>data\error.log"),0
+		Else
+			Shell.Run ("cmd\settings.bat log-logins 0 2>>data\error.log"),0
+		End If
+End Sub
+Sub SettingsLT
+	Set Shell=CreateObject("wscript.shell") 
+		If LT.Checked Then
+			Shell.Run ("cmd\settings.bat lite 1 2>>data\error.log"),0
+		Else
+			Shell.Run ("cmd\settings.bat lite 0 2>>data\error.log"),0
+		End If
+End Sub
+Sub SettingsJC
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat javacheck 2>>data\error.log"),0
+End Sub
+Sub SettingsSSYS 
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat send-sysinfo 2>>data\error.log"),0
+End Sub
+Sub Discord
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat web discord 2>>data\error.log"),0
+End Sub
+Sub Website
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat web pcmod 2>>data\error.log"),0
+End Sub
+Sub RefreshPlayers
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat refreshplayers 2>>data\error.log"),0
+	sleep 3
+	If FileExists("data\indexes\online") Then
+	 Set objFileToReadOnline = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\online",1)
+	 Dim strOnline
+	 do while not objFileToReadOnline.AtEndOfStream
+	     strOnline = objFileToReadOnline.ReadAll
+		 document.getElementById("online").innerHTML = strOnline
+	 loop
+	 objFileToReadOnline.Close
+	 Set objFileToReadOnline = Nothing
+	end if
+End Sub
+Sub Modlist
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("data\pages\modlist.hta"),1
+End Sub
+Sub ReadSettings
+	Set Shell=CreateObject("wscript.shell") 
+	Shell.Run ("cmd\settings.bat init >data\init.log 2>&1"),0
+	Set objFileToRead = CreateObject("Scripting.FileSystemObject").OpenTextFile("settings.txt",1)
+	Dim strLine
+	do while not objFileToRead.AtEndOfStream
+	     strLine = objFileToRead.ReadLine()
+		 if strLine = "shortcut=1" then
+			document.getElementById("Shortcut").checked=True
+		 elseif strLine = "log-logins=1" then
+			document.getElementById("LL").checked=True
+		 elseif strLine = "lite=1" then
+			document.getElementById("LT").checked=True
+		 elseif strLine = "direct=1" then
+			document.getElementById("Direct").checked=True
+		 elseif strLine = "shortcut=0" then
+			document.getElementById("Shortcut").checked=False
+		 elseif strLine = "log-logins=0" then
+			document.getElementById("LL").checked=False
+		 elseif strLine = "lite=0" then
+			document.getElementById("LT").checked=False
+		 elseif strLine = "direct=0" then
+			document.getElementById("Direct").checked=False
+		 end if
+	loop
+	objFileToRead.Close
+	Set objFileToRead = Nothing
+	If FileExists("data\indexes\user") Then
+	 Set objFileToReadUser = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\user",1)
+	 Dim strUser
+	 do while not objFileToReadUser.AtEndOfStream
+	     strUser = objFileToReadUser.ReadLine()
+		 document.getElementById("user").value = strUser
+	 loop
+	 objFileToReadUser.Close
+	 Set objFileToReadUser = Nothing
+	end if
+	If FileExists("data\indexes\version") Then
+	 Set objFileToReadVersion = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\version",1)
+	 Dim strVersion
+	 do while not objFileToReadVersion.AtEndOfStream
+	     strVersion = objFileToReadVersion.ReadLine()
+		 document.getElementById("version").innerHTML = strVersion
+	 loop
+	 objFileToReadVersion.Close
+	 Set objFileToReadVersion = Nothing
+	end if
+	If FileExists("data\indexes\modcount") Then
+	 Set objFileToReadMod = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\modcount",1)
+	 Dim strMod
+	 do while not objFileToReadMod.AtEndOfStream
+	     strMod = objFileToReadMod.ReadLine()
+		 document.getElementById("modcount").innerHTML = strMod
+	 loop
+	 objFileToReadMod.Close
+	 Set objFileToReadMod = Nothing
+	end if
+	If FileExists("data\indexes\java") Then
+	 Set objFileToReadJava = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\java",1)
+	 Dim strJava
+	 do while not objFileToReadJava.AtEndOfStream
+	     strJava = objFileToReadJava.ReadLine()
+		 document.getElementById("java").innerHTML = strJava
+	 loop
+	 objFileToReadJava.Close
+	 Set objFileToReadJava = Nothing
+	end if
+	If FileExists("data\indexes\online") Then
+	 Set objFileToReadOnline = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\online",1)
+	 Dim strOnline
+	 do while not objFileToReadOnline.AtEndOfStream
+	     strOnline = objFileToReadOnline.ReadAll
+		 document.getElementById("online").innerHTML = strOnline
+	 loop
+	 objFileToReadOnline.Close
+	 Set objFileToReadOnline = Nothing
+	end if
+	If FileExists("data\indexes\ssys") Then
+	 Set objFileToReadSSys = CreateObject("Scripting.FileSystemObject").OpenTextFile("data\indexes\ssys",1)
+	 Dim strSSys
+	 do while not objFileToReadSSys.AtEndOfStream
+	     strSSys = objFileToReadSSys.ReadLine()
+		 document.getElementById("syssent").innerHTML = strSSys
+	 loop
+	 objFileToReadSSys.Close
+	 Set objFileToReadSSys = Nothing
+	end if
+End Sub
+</script>
+<script type="text/javascript">
+    window.resizeTo(1450,780);
+</script>
+<title>PCMod Launcher</title>
+</head>
+<body onload="vbscript:ReadSettings">
+<!-- Side Bar -->
+<div class="sidenav">
+<table border="0" cellpadding="2px" id="menu" width="228px">
+<th align="center" colspan="2"><hr>Settings<hr></th>
+<tr><td align="left" width="auto">
+<label for="Shortcut">Shortcut </label>
+</td><td align="right">
+<input class="largerCheckbox" title="Creates a shotcut on your desktop." type="checkbox" id="Shortcut" onclick="SettingsShortcut"></span><br>
+</td></tr><tr><td align="left" width="auto">
+<label for="LL">Direct </label>
+</td><td align="right">
+<input class="largerCheckbox" title="Keeps track of how often you play." type="checkbox" id="Direct" onclick="SettingsDirect"><br>
+</td></tr><tr><td align="left" width="auto">
+<label for="LL">Log Logins </label>
+</td><td align="right">
+<input class="largerCheckbox" title="Keeps track of how often you play." type="checkbox" id="LL" onclick="SettingsLL"><br>
+</td></tr><tr><td align="left" width="auto">
+<label for="LT">Lite Mode </label>
+</td><td align="right">
+<input class="largerCheckbox" title="Removes clients side mods. (for slower computers)." type="checkbox" id="LT" onclick="SettingsLT"><br>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="1px" id="menu" width="228px">
+<th align="center"><hr>Tasks/Links<hr></th>
+<tr>
+<td align="center" width="auto">
+<button style="width: 188px;" id="ML" onclick="Modlist" style="width: 100px;">Modlist (<span id="modcount">--</span> mods) </button>
+</td></tr><tr><td align="center" width="auto">
+<button style="width: 188px;" id="JC" onclick="SettingsJC" style="width: 100px;">Java Check <span id="java"></span></button>
+</td></tr><tr><td align="center" width="auto">
+<button style="width: 188px;" id="SSYS" onclick="SettingsSSYS" style="width: 100px;">Send Sysinfo <span id="syssent"></span></button>
+</td></tr><tr><td align="center" width="auto">
+<button style="width: 188px;" onclick="Website">Visit PCMod.tk</button>
+</td></tr><tr><td align="center" width="auto">
+<button style="width: 188px;" onclick="Discord">Join Discord</button>
+</td></tr><tr><td align="center" width="auto">
+<button style="width: 188px;" onclick="PassSetup">Setup Password</button>
+</td></tr>
+</table>
+<table border="0" cellpadding="2px" id="menu" width="228px">
+<th colspan="2" align="center"><hr>Username<hr></th>
+<tr><td align="left">
+User</td><td align="center"><input type="text" size="16" id="user" placeholder="Username" value="Username" onchange="UserChange"></td>
+</tr><tr><td align="left">
+Pass</td><td align="center"><input type="password" size="16" id="pass" placeholder="Password" onchange="PassChange"></td>
+</tr></table>
+</div>
+<div class="playernav">
+<div id="menu2">
+<table border="0" id="menu2" width="100%">
+<tr><td align="left" width="auto" colspan="2">
+Promo <input type="text" size="8" id="PromoCode" onchange="PromoSend">
+</td></tr>
+</table>
+<table>
+<th align="center"><hr>Players Online<hr>
+</th>
+<tr><td>
+<button style="height:25px;width:100%;font-size:10px" onclick="RefreshPlayers">Refresh</button>
+</td></tr>
+<tr><td>
+<pre><label style="width: 148px; font:16px; text-align:left;" type="text" id="online"></label></pre>
+</td></tr>
+</table>
+</div>
+</div>
+<!-- MAIN PAGE -->
+<div class="main">
+<div id="title">
+<img height="20%" src="data\icons\pcmod.png"><br>
+</div>
+<br>
+<div id="content">
+<center>
+<iframe id="news" width="80%" height="50%" src="data\pages\news.html"></iframe><br><p>
+<table width="50%"><tr>
+<td align="center"><button style="width: 100%;" onclick="RunProgram"><br><h2>LAUNCH</h2></button></td>
+<td align="center"><button style="width: 100%;" onclick="RunUpdate"><br><h2>UPDATE</h2></button></td>
+</tr></table>
+</center>
+</div>
+<sub style="font:14px;text-align:right;width:100%;padding:1px;color:#ccd1d1;" type="text" id="version">2.-.-</sub>
+</body>
+</html>
+<!--Designed and Programmed by Mark Rewey with the help of Korey Webb and Kaler Webb-->
