@@ -1,0 +1,432 @@
+ClientAdd;AmbientSounds_v3.1.6_mc1.16.5.jar;2.0.0-pre;Ambient Sounds;CreativeCore
+ClientAdd;appleskin-forge-mc1.16.x-2.0.0.jar;2.0.0;Apple Skin;#
+ClientAdd;betterbiomeblend-1.16.4-1.1.5-forge.jar;2.0.0;Better Biome Blend;#
+ClientAdd;BetterPingDisplay-1.16.4-1.0.jar;2.0.0-pre;Better Ping Display;#
+ClientAdd;BetterThirdPerson-Forge-1.16.4-1.5.1.jar;2.0.0;Better Third Person;#
+ClientAdd;bwncr-1.16.4-3.9.16.jar;2.0.0-pre;Bad Wither No Cookie;#
+ClientAdd;Controlling-7.0.0.23.jar;2.0.0;Controlling;#
+ClientAdd;DefaultOptions_1.16.5-12.2.1.jar;2.0.0-pre2;Default Options;#
+ClientAdd;DynamicSurroundings-1.16.4-4.0.4.2.jar;2.0.0-pre;Dynamic Surroundings;#
+ClientAdd;fancymenu_2.1.2_MC_1.16.2-1.16.5.jar;2.0.0;Fancy Menu;Konkrete
+ClientAdd;InventoryHud_[1.16.2-1.16.5].forge-3.3.0.jar;2.0.0-pre;Inventory Hud +;#
+ClientAdd;jeiintegration_1.16.5-7.0.1.15.jar;2.0.0-pre;JEI - Integrations;#
+ClientAdd;JustEnoughResources-1.16.3-0.12.0.100.jar;2.0.0-pre;JER;#
+ClientAdd;konkrete_1.1.6_MC_1.16.2-1.16.5.jar;2.0.0-pre;Konkrete;#
+ClientAdd;light-overlay-5.8.1.jar;2.0.0;Light Overlay;#
+ClientAdd;Notes-1.16.5-1.2.3.jar;2.0.0-pre;Notes;#
+ClientAdd;OfflineSkins-1.16.5-v2.jar;2.0.0-pre2;Offline Skins;#
+ClientAdd;OptiFine_1.16.5_HD_U_G7.jar;2.0.0-pre;Optifine;#
+ClientAdd;performant-1.16.2-5-3.66m.jar;2.0.0-pre2;Performant;#
+ClientAdd;smoothboot-forge-1.16.4-1.2.2.jar;2.0.0-pre;Smooth Boot;#
+ClientAdd;sounddeviceoptions-1.4.2.jar;2.0.0-pre;Sound Device Options;#
+ClientAdd;SoundFilters-0.14_for_1.16.2.jar;2.0.0-pre;Sound Filters;#
+CoreAdd;abnormals_core-1.16.5-3.2.0.jar;2.0.0;Abnormals Core;#
+CoreAdd;architectury-1.18.25-forge.jar;2.0.0;Architectury;#
+CoreAdd;AutoRegLib-1.6-49.jar;2.0.0-pre2;AutoRegLib;#
+CoreAdd;Bookshelf-1.16.5-10.1.11.jar;2.0.0-pre2;Bookshelf;#
+CoreAdd;caelus-forge-1.16.5-2.1.3.0.jar;2.0.0-pre;Caelus;#
+CoreAdd;cloth-config-4.11.26-forge.jar;2.0.0-pre;Cloth Config;#
+CoreAdd;cofh_core-1.16.4-1.2.1.jar;2.0.0-pre;COFH Core;#
+CoreAdd;collective-1.16.5-2.26.jar;2.0.0-pre;Collective;#
+CoreAdd;CreativeCore_v2.2.0_mc1.16.5.jar;2.0.0-pre2;CreativeCore;#
+CoreAdd;curios-forge-1.16.5-4.0.5.2.jar;2.0.0-pre2;Curios;#
+CoreAdd;expandability-2.0.1-forge.jar;2.0.0-pre;Expandability;#
+CoreAdd;ForgeEndertech-1.16.4-7.1.0.0-build.0075.jar;2.0.0-pre;Forge Endertech;#
+CoreAdd;geckolib-forge-1.16.5-3.0.41.jar;2.0.0-pre2;Geckolib;#
+CoreAdd;kotlinforforge-1.13.0-obf.jar;2.0.0;Kotlin for Forge;#
+CoreAdd;Lollipop-1.16.5-3.2.9.jar;2.0.0-pre;Lollipop;#
+CoreAdd;mapperbase-1.16.5-2.4.0.0.jar;2.0.0;Mapperbase Core;#
+CoreAdd;obfuscate-0.6.2-1.16.3.jar;2.0.0-pre2;Obfuscate;#
+CoreAdd;silent-lib-1.16.3-4.9.6.jar;2.0.0-pre;Silent Lib;#
+CoreAdd;structure_gel-1.16.5-1.7.7.jar;2.0.0-pre;Structure Gel;#
+CoreAdd;supermartijn642configlib-1.0.8-mc1.16.jar;2.0.0;supermartijn642configlib;#
+CoreAdd;supermartijn642corelib-1.0.9-mc1.16.5.jar;2.0.0;supermartijn642corelib;#
+CoreAdd;valhelsia_core-16.0.9.jar;2.0.0-pre2;Valhelsia Core;#
+CoreAdd;YungsApi-1.16.4-Forge-6.jar;2.0.0-pre;Yung API;#
+ServerAdd;balancedenchanting-1.0.jar;2.0.0-pre;Balanced Enchanting;#
+ServerAdd;BedBenefits-1.16.5-5.0.3.jar;2.0.0-pre;Bed Benefits;Bookshelf
+ServerAdd;BetterCaves-Forge-1.16.4-1.1.2.jar;2.0.0-pre;Better Caves;Yung API
+ServerAdd;BetterMineshafts-Forge-1.16.4-2.0.4.jar;2.0.0-pre2;Better Mineshafts;Yungs Core
+ServerAdd;betterspawnercontrol_1.16.5-1.3.jar;2.0.0-pre;Better Spawner Control;Collective
+ServerAdd;BetterStrongholds-1.16.4-1.1.jar;2.0.0-pre;Better Strongholds;Yung API
+ServerAdd;configurabledespawntimer_1.16.5-2.1.jar;2.0.0-pre;Config despawn timer;Collective
+ServerAdd;crashutilities-3.11.1.jar;2.0.0-pre;Crash Utilities;#
+ServerAdd;cryingghasts_1.16.5-1.3.jar;2.0.0-pre;Crying Ghasts;Collective
+ServerAdd;deathbackup_1.16.5-1.4.jar;2.0.0-pre;Death Backup;Collective
+ServerAdd;FastLeafDecay-v25.jar;2.0.0-pre;Fast Leaf Decay;#
+ServerAdd;fixedanvilrepaircost_1.16.5-1.4.jar;2.0.0-pre;Fixed Anvil Repair Cost;Collective
+ServerAdd;giantspawn_1.16.5-2.4.jar;2.0.0-pre;Giant Spawn;#
+ServerAdd;grindstonesharpertools_1.16.5-1.5.jar;2.0.0-pre;Grindstone Sharpener;Collective
+ServerAdd;HappyTrails-1.16.5-1.36.0.8.jar;2.0.0-pre;Happy Trails;#
+ServerAdd;horsestandstill-1.16.5-1.0.2.jar;2.0.0-pre;Horse Stay;#
+ServerAdd;improvedmobs-1.16.4-1.7.7.jar;2.0.0-pre2;Improved Mobs;TenshiLib Core
+ServerAdd;instantunify-1.16.4-1.0.0.jar;2.0.0-pre;Instant Unify;#
+ServerAdd;KleeSlabs_1.16.5-9.2.1.jar;2.0.0-pre;Klee Slabs;#
+ServerAdd;minecraft2discord-forge-1.16.x-3.0.13.jar;2.0.0-pre;MC2Discord;#
+ServerAdd;Morpheus-1.16.5-4.2.70.jar;2.0.0-pre;Morpheus;#
+ServerAdd;mountedpearl-1.16.3-1.0.0.jar;2.0.0-pre;Mounted Pearl;#
+ServerAdd;NetherPortalFix_1.16.3-7.2.1.jar;2.0.0-pre;NetherPortalFix;#
+ServerAdd;quickpaths_1.16.5-1.5.jar;2.0.0-pre;Quick paths;Collective
+ServerAdd;respawningshulkers_1.16.5-1.4.jar;2.0.0-pre;Respawning Shulkers;#
+Add;SimpleJail-1.16--1.1.2.jar;2.0.0-pre;Simple Jail;#
+ServerAdd;softerhaybales_1.16.5-1.3.jar;2.0.0-pre;Softer Hay Bales;Collective
+ServerAdd;starterkit_1.16.5-2.4.jar;2.0.0-pre;Starter Kit;Collective
+ServerAdd;TenshiLib-1.16.3-1.3.0.jar;2.0.0-pre;TenshiLib Core;#
+ServerAdd;VillagersFollowEmeralds-1.16.5-1.0.0.jar;2.0.0-pre;Villagers Follow Emeralds;#
+ServerAdd;worldedit-mod-7.2.5-dist.jar;2.0.0-pre;World Edit;#
+Add;AdHooks-1.16.4-6.1.5.0-build.0124.jar;2.0.0-pre2;Ad Hooks;Forge Endertech
+Add;appliedenergistics2-8.4.0.jar;2.0.0;Applied Energistics;#
+Add;archers_paradox-1.16.4-1.2.0.jar;2.0.0-pre;Archers Paradox;COFH Core
+Add;Artifacts-1.16.5-2.9.3.jar;2.0.0-pre2;Artifacts;Curios+Expandability
+Add;astikorcarts-1.16.5-1.1.1.jar;2.0.0-pre;Astikorcarts;#
+Add;atmospheric-1.16.5-3.1.0.jar;2.0.0-pre;Atmospheric;Abnormals Core
+Add;AttributeFix-1.16.5-10.1.2.jar;2.0.0-pre;Attribute Fix;#
+Add;backpacked-1.10.1-1.16.3.jar;2.0.0-pre2;Backpacked;Obfuscate
+Add;backpacker-1.3.1-1.16.3.jar;2.0.0-pre2;Backpacker;Backpacked
+Add;betteranimalsplus-1.16.5-10.2.0.jar;2.0.0-pre;Better Animals+;#
+Add;BetterBurning-1.16.5-6.0.6.jar;2.0.0-pre2;Better Burning;#
+Add;BetterDrowning-1.16.5-2.0.2.jar;2.0.0-pre;Better Drowning;Bookshelf
+Add;bigbrain-1.2.4.jar;2.0.0-pre2;Big Brain;#
+Add;blame-1.16.5-3.2.3-forge.jar;2.0.0;Blame;#
+Add;Bountiful-1.16.4-3.3.1.jar;2.0.0-pre;Bountiful;Kotlin Core
+Add;byg-1.2.9.jar;2.0.0-pre2;Oh The Biomes You'll Go;#
+Add;camera-1.16.5-1.0.6.jar;2.0.0-pre;Camera;#
+Add;carryon-1.16.5-1.15.5.15.jar;2.0.0-pre2;Carry On;#
+Add;cc-tweaked-1.16.4-1.96.0.jar;2.0.0-pre2;Computer Craft;#
+Add;cfm-7.0.0pre22-1.16.3.jar;2.0.0-pre2;Furniture;Obfuscate
+Add;cgm-1.0.1-1.16.3.jar;2.0.0-pre;Gun Mod;#
+Add;cleancut-mc1.16-2.2-forge.jar;2.0.0-pre;Clean Cut;#
+Add;Clumps-6.0.0.25.jar;2.0.0;Clumps;#
+Add;colytra-forge-1.16.5-5.1.1.1.jar;2.0.0-pre;Colytra;Caelus Core
+Add;corpse-1.16.5-1.0.5.jar;2.0.0-pre2;Corpse;#
+Add;CosmeticArmorReworked-1.16.5-v3a.jar;2.0.0-pre2;Cosmetic Armor;#
+Add;CraftTweaker-1.16.5-7.1.0.320.jar;2.0.0;CraftTweaker;#
+Add;create-mc1.16.5_v0.3.1c.jar;2.0.0-pre;Create;#
+Add;createaddition-1.16.5-20210626a.jar;2.0.0;Create - Additions;Create
+Add;cursery-2.1-1.16.5.jar;2.0.0;Cursery;#
+Add;DamageTilt-1.16-forge-0.1.1.jar;2.0.0-pre;Damage Tilt;#
+Add;dimdungeons-1.12-forge-1.16.5.jar;2.0.0-pre2;Dungeon Dim;#
+Add;dungeons_plus-1.16.5-1.1.5.jar;2.0.0-pre2;Dungeons Plus;Structure Gel
+Add;Easy+Shulker+Access-1.16.5-1.1.1.jar;2.0.0-pre;Easy Shulker Access;#
+Add;easyelytratakeoff_1.16.5-1.7.jar;2.0.0-pre;Easy Elytra Takeoff;#
+Add;emojiful-1.16.4-2.1.4.jar;2.0.0-pre;Emojiful;#
+Add;enhancedcelestials-1.0.4-1.16.4.jar;2.0.0-pre;Enhanced Celestials;#
+Add;EnhancedVisuals_v1.3.31_mc1.16.5.jar;2.0.0-pre2;EnhancedVisuals;CreativeCore
+Add;extraboats-1.16.5-2.1.0.jar;2.0.0-pre;Extra Boats;Abnormals Core
+Add;FasterLadderClimbing-1.16.4-0.2.1.jar;2.0.0-pre;Faster Ladder Climbing;#
+Add;FluxNetworks-1.16.5-6.1.7.12.jar;2.0.0-pre;Flux Network;#
+Add;forgiveness-1.16.5-1.0.0.jar;2.0.0-pre;Forgiveness;#
+Add;ForgivingVoid_1.16.5-5.2.1.jar;2.0.0-pre1;Forgiving Void;#
+Add;ftb-backups-2.1.1.6.jar;2.0.0-pre;FTB - Backup;Architectury
+Add;ftb-chunks-1605.2.3-build.75.jar;2.0.0-pre;FTB - Chunks;Architectury
+Add;ftb-essentials-1604.1.0.13.jar;2.0.0-pre;FTB - Essentials;Architectury
+Add;ftb-gui-library-1605.2.1.41-forge.jar;2.0.0-pre;FTB - GUI;Architectury
+Add;ftb-ranks-1604.1.1.11.jar;2.0.0-pre;FTB - Ranks;Architectury
+Add;ftb-teams-1604.1.0.16-forge.jar;2.0.0-pre;FTB - Teams;Architectury
+Add;ftb-ultimine-forge-1605.2.2-build.4.jar;2.0.0-pre1;FTB - Ultimine;Architectury
+Add;gemsnjewels-1.16.4-0.21.0.jar;2.0.0-pre;Gems and Jewels;#
+Add;goprone-1.16.4-1.3.5.jar;2.0.0-pre;Go Prone;#
+Add;guardvillagers-1.16.5.1.2.4.jar;2.0.0-pre;Guard Villagers;#
+Add;HardcoreRevival_1.16.5-5.2.1.jar;2.0.0-pre2;Hardcore Revival;#
+Add;HearthstoneMod-1.16.4-1.0.1.jar;2.0.0-pre;Hearthstone;#
+Add;HQM-1.16.2+5.5.6-forge.jar;2.0.0-pre;Hardcore Questing Mod;#
+Add;Infinite_Firework.jar;2.0.0-pre;Infinite Firework;#
+Add;itemcollectors-1.1.2-mc1.16.5.jar;2.0.0;Item Collectors;#
+Add;ItemPhysic_v1.4.18_mc1.16.5.jar;2.0.0-pre;ItemPhysic;CreativeCore
+Add;jei-1.16.5-7.7.0.106.jar;2.0.0-pre2;JEI;#
+Add;levelhearts-1.16.2-2.2.0.jar;2.0.0-pre;LevelHearts;#
+Add;LimitedLives-1.16.3-1.1.2.jar;2.0.0-pre3;Limited Lives;#
+Add;loginprotection-1.16.5-1.0.0.jar;2.0.0-pre2;Login Protection;#
+Add;LostTrinkets-1.16.5-0.1.27.jar;2.0.0-pre;Lost Trinkets;Lollipop
+Add;mana-and-artifice-1.3.0.6.jar;2.0.0-pre;Mana and Artifice;Geckolib
+Add;markscoin-1.5-1.16.5.jar;2.0.0;Marks Coin mod;#
+Add;mcw-bridges-1.0.5-mc1.16.5-4.jar;2.0.0-pre;More Bridges;#
+Add;mcw-doors-1.0.3-mc1.16.5.jar;2.0.0-pre2;More Doors;#
+Add;mcw-fences-1.0.0-mc1.16.5.jar;2.0.0-pre;More Fences;#
+Add;mcw-roofs-2.0.1-mc1.16.5-4.jar;2.0.0-pre;More Roofs;#
+Add;mcw-windows-1.0.3-mc1.16.5.jar;2.0.0-pre;More Windows;#
+Add;Mekanism-1.16.5-10.0.21.448.jar;2.0.0-pre;Mekanism;#
+Add;MekanismAdditions-1.16.5-10.0.21.448.jar;2.0.0-pre;Mekanism - Additions;#
+Add;MekanismGenerators-1.16.5-10.0.21.448.jar;2.0.0-pre;Mekanism - Generators;#
+Add;MekanismTools-1.16.5-10.0.21.448.jar;2.0.0-pre;Mekanism - Tools;#
+Add;modifiers-0.1.2-forge.jar;2.0.0-pre;Modifiers;#
+Add;moreminecarts-1.3.8.jar;2.0.0-pre2;More Minecarts;#
+Add;morered-1.16.5-2.1.1.0.jar;2.0.0-pre2;More Redstone;#
+Add;MouseTweaks-2.14-mc1.16.2.jar;2.0.0-pre;Mouse Tweak;#
+Add;NaturesCompass-1.16.5-1.9.0.jar;2.0.0-pre2;Nature Compass;#
+Add;Origins-1.16.5-0.7.3.6-forge.jar;2.0.0;Origins;Cloth Config
+Add;pamhc2crops-1.16.3-1.0.2.jar;2.0.0-pre;Pam Crops;Pam Core
+Add;pamhc2foodcore-1.16.3-1.0.2.jar;2.0.0-pre;Pam Core;#
+Add;pamhc2foodextended-1.16.3-1.0.2.jar;2.0.0-pre;Pam Food;Pam Core
+Add;pandoras_creatures-1.16.3-2.0.1.jar;2.0.0-pre;Pandoras Creatures;#
+Add;PassableFoliage-1.16.5-2.2.1.jar;2.0.0-pre;Passable Foliage;#
+Add;Patchouli-1.16.4-53.jar;2.0.0;Patchouli;#
+Add;Pehkui-2.2.1+1.16.5-forge.jar;2.0.0;Pehkui;#
+Add;Pillagers-1.16.5-3.0.1.jar;2.0.0-pre;Pillagers;#;ALPHA
+Add;playertrackingcompass_1.16.5-1.6.jar;2.0.0-pre;Player Tracking Compass;Collective
+Add;polymorph-forge-1.16.5-0.25.jar;2.0.0;Polymorph;#
+Add;PrettyBeaches_1.16.3-5.2.0.jar;2.0.0-pre;Pretty Beaches;#
+Add;ProgressiveBosses-2.2.0-mc1.16.x.jar;2.0.0-pre;Progressive Bosses;#
+Add;Quark-r2.4-314.jar;2.0.0;Quark;AutoRegLib
+Add;QuarkOddities-1.16.3.jar;2.0.0-pre;Quark - Oddities;Quark
+Add;randompatches-2.4.4-forge.jar;2.0.0-pre;Random Patches;#
+Add;reliquary-1.16.5-1.3.5.1100.jar;2.0.0;Reliquary;#
+Add;repurposed_structures-1.16.5-2.7.6-forge.jar;2.0.0;Repurposed Structures;#
+Add;roadstuff-1.16.5-4.3.0.jar;2.0.0;Road stuff;#
+Add;rsgauges-1.16.4-1.2.10.jar;2.0.0-pre;Gauges and Switches;#
+Add;secretrooms-1.16.5-1.0.1.jar;2.0.0-pre;Secret Rooms;#
+Add;silent-gear-1.16.5-2.6.27.jar;2.0.0;Silent Gear;Silent Lib
+Add;simpleplanes-1.16.5-4.4.1.jar;2.0.0-pre;Simple Planes;#
+Add;SneakyMagic-v1.3.2-1.16.5.jar;2.0.0-pre;Sneaky Magic;#
+Add;solpotato-1.16.X-1.1.0.jar;2.0.0-pre;Spice of Life: Potato;#
+Add;sophisticatedbackpacks-1.16.4-2.5.0.271.jar;2.0.0-pre2;Sophisticated Backpacks;#
+Add;spark-forge_1.jar;2.0.0-pre2;Spark;#
+Add;SpartanWeaponry-1.16.4-2.1.0-beta-4.jar;2.0.0-pre;Spartan Weaponry;#;BETA
+Add;Spelled-1.16.5-0.1.6.2.jar;2.0.0-pre2;Spelled;#
+Add;spiders-2.0-1.16.4-1.0.4.jar;2.0.0-pre;Spiders 2.0;#
+Add;taterzens-1.1.0-forge.jar;2.0.0-pre3;Taterzens;#
+Add;TerraForged-1.16.5-0.2.12.jar;2.0.0;TerraForged;#
+Add;theoneprobe-1.16-3.1.4.jar;2.0.0-pre2;The One Probe;#
+Add;tinyredstone-1.16.5-1.8.3.jar;2.0.0-pre2;Tiny Redstone;#
+Add;ToolBelt-1.16.5-1.16.0.jar;2.0.0-pre;Tool Belt;#
+Add;twoplayersonehorse-1.16.4-2.0.2.jar;2.0.0-pre;Two Players One Horse;#
+Add;Upgraded+Netherite+1.16.5+-+1.9.9.jar;2.0.0;Upgraded Netherite;#
+Add;upgrade_aquatic-1.16.5-3.1.0.jar;2.0.0-pre;Upgrade Aquatic;Abnormals Core
+Add;valhelsia_structures-1.16.5-0.1.3.jar;2.0.0;Valhelsia Structures;Valhelsia Core
+Add;Vanilla-Builders-Extension-1.16.4-1.0.14.jar;2.0.0-pre;Vanilla Builders Extension;#
+Add;vehicle-mod-0.45.2-1.16.3.jar;2.0.0-pre;Vehicles;Obfuscate
+Add;VendingMachine-1.16.2-1.0.0.5.jar;2.0.0-pre4;Vending Machine;#
+Add;VTweaks-1.16.4-3.5.0.jar;2.0.0-pre;V-Tweaks;#
+Add;Waddles-1.16.5-0.8.13.jar;2.0.0-pre2;Waddles;#
+Add;walljump-forge-1.16.4-1.3.7.jar;2.0.0-pre;Wall Jump;#
+Add;Waystones_1.16.5-7.6.2.jar;2.0.0-pre2;Waystones;#
+Add;WorldPreGenerator-1.16.5-2.0.0.jar;2.0.0-pre;World PreGen;#
+Add;[1.16.5]+SecurityCraft+v1.8.22.2.jar;2.0.0;SecurityCraft;#
+
+Remove;abnormals_core-1.16.5-3.1.1.jar;2.0.0;Abnormals Core;#
+Remove;AppleSkin-mc1.16.2-forge-1.0.14.jar;2.0.0;Apple Skin;#
+Remove;appliedenergistics2-8.3.1.jar;2.0.0;Applied Energistics;#
+Remove;architectury-1.17.21-forge.jar;2.0.0;Architectury;#
+Remove;betterbiomeblend-1.16.4-1.1.4-forge.jar;2.0.0;Better Biome Blend;#
+Remove;BetterThirdPerson-Forge-1.16.4-1.5.0.jar;2.0.0;Better Third Person;#
+Remove;blame-1.16.5-3.2.2-forge.jar;2.0.0;Blame;#
+Remove;Clumps-6.0.0.24.jar;2.0.0;Clumps;#
+Remove;Controlling-7.0.0.22.jar;2.0.0;Controlling;#
+Remove;CraftTweaker-1.16.5-7.1.0.313.jar;2.0.0;CraftTweaker;#
+Remove;createaddition-1.16.5-20210517a.jar;2.0.0;Create - Additions;Create
+Remove;cursery-1.10-1.16.5.jar;2.0.0;Cursery;#
+Remove;fancymenu_2.1.0_MC_1.16.2-1.16.5.jar;2.0.0;Fancy Menu;Konkrete
+Remove;itemcollectors-1.0.11-mc1.16.5.jar;2.0.0;Item Collectors;#
+Remove;kotlinforforge-1.12.1-obf.jar;2.0.0-pre2;Kotlin for Forge;#
+Remove;mapperbase-1.16.4-2.3.0.0.jar;2.0.0;Mapperbase Core;#
+Remove;markscoin-1.4-1.16.5.jar;2.0.0;Marks Coin mod;#
+Remove;Origins-1.16.5-0.7.3.4-forge.jar;2.0.0;Origins;Cloth Config
+Remove;Patchouli-1.16.4-51.jar;2.0.0;Patchouli;#
+Remove;Pehkui-2.2.0+1.16.5-forge.jar;2.0.0;Shrink mod;#
+Remove;polymorph-forge-1.16.5-0.24.jar;2.0.0;Polymorph;#
+Remove;Quark-r2.4-312.jar;2.0.0;Quark;AutoRegLib
+Remove;reliquary-1.16.5-1.3.5.1098.jar;2.0.0;Reliquary;#
+Remove;repurposed_structures-1.16.5-2.7.5-forge.jar;2.0.0;Repurposed Structures;#
+Remove;roadstuff-1.16.4-4.2.0.jar;2.0.0;Road stuff;#
+Remove;silent-gear-1.16.5-2.6.26.jar;2.0.0;Silent Gear;Silent Lib
+Remove;TerraForged-1.16.5-0.2.10.jar;2.0.0;TerraForged;#
+Remove;Upgraded+Netherite+1.16.5+-+1.9.5.jar;2.0.0;Upgraded Netherite;#
+Remove;valhelsia_structures-1.16.5-0.1.2.jar;2.0.0;Valhelsia Structures;Valhelsia Core
+Remove;[1.16.5]+SecurityCraft+v1.8.21.1.jar;2.0.0;SecurityCraft;#
+Remove;minecolonies-0.14.221-BETA-universal.jar;2.0.0-pre4;Minecolonies;Structurize
+Remove;structurize-0.13.177-ALPHA-universal.jar;2.0.0-pre4;Structurize;#
+Remove;crafting-dead-core-1.16.5-1.5.0_h1-alpha.jar;2.0.0-pre4;Crafting Dead;#
+Remove;crafting-dead-survival-1.16.5-1.1.0-alpha.jar;2.0.0-pre4;Crafting Dead Survival;Crafting Dead
+Remove;Spelled-1.16.5-0.1.5.jar;2.0.0-pre2;Spelled;#
+Remove;performant-1.16.2-5-3.56m.jar;2.0.0-pre2;Performant;#
+Remove;AdHooks-1.16.4-6.1.4.0-build.0110.jar;2.0.0-pre2;Ad Hooks;Forge Endertech
+Remove;architectury-1.14.157-forge.jar;2.0.0-pre2;Architectury;#
+Remove;Artifacts-1.16.5-2.9.2.jar;2.0.0-pre2;Artifacts;Curios+Expandability
+Remove;AutoRegLib-1.6-47.jar;2.0.0-pre2;AutoRegLib;#
+Remove;backpacked-1.10.0-1.16.3.jar;2.0.0-pre2;Backpacked;Obfuscate
+Remove;backpacker-1.3.0-1.16.3.jar;2.0.0-pre2;Backpacker;Backpacked
+Remove;BetterBurning-1.16.5-6.0.5.jar;2.0.0-pre2;Better Burning;#
+Remove;BetterMineshafts-Forge-1.16.4-2.0.3.jar;2.0.0-pre2;Better Mineshafts;Yungs Core
+Remove;bigbrain-1.2.3.jar;2.0.0-pre2;Big Brain;#
+Remove;blame-1.16.4-1.9.2.jar;2.0.0-pre2;Blame;#
+Remove;Bookshelf-1.16.5-10.0.7.jar;2.0.0-pre2;Bookshelf;#
+Remove;byg-1.2.7.jar;2.0.0-pre2;Oh The Biomes You'll Go;#
+Remove;carryon-1.16.5-1.15.3.13.jar;2.0.0-pre2;Carry On;#
+Remove;cc-tweaked-1.16.4-1.95.3.jar;2.0.0-pre2;Computer Craft;#
+Remove;cfm-7.0.0-pre19-mc1.16.3.jar;2.0.0-pre2;Furniture;Obfuscate
+Remove;Clumps-6.0.0.22.jar;2.0.0-pre2;Clumps;#
+Remove;Controlling-7.0.0.19.jar;2.0.0-pre2;Controlling;#
+Remove;corpse-1.16.4-1.0.6.jar;2.0.0-pre2;Corpse;#
+Remove;CosmeticArmorReworked-1.16.5-v1b.jar;2.0.0-pre2;Cosmetic Armor;#
+Remove;crafting-dead-core-1.16.5-1.4.1-alpha.jar;2.0.0-pre2;Crafting Dead;#
+Remove;crafting-dead-servercore-1.2.5.jar;2.0.0-pre2;Crafting Dead Server Core;Crafting Dead
+Remove;crafting-dead-virus-1.16.5-1.0.0-alpha.jar;2.0.0-pre2;Crafting Dead Virus;Crafting Dead
+Remove;CraftTweaker-1.16.5-7.1.0.291.jar;2.0.0-pre2;CraftTweaker;#
+Remove;CreativeCore_v2.1.3_mc1.16.5.jar;2.0.0-pre2;CreativeCore;#
+Remove;curios-forge-1.16.5-4.0.5.1.jar;2.0.0-pre2;Curios Core;#
+Remove;DefaultOptions_1.16.3-12.2.0.jar;2.0.0-pre2;Default Options;#
+Remove;dimdungeons-1.10-forge-1.16.5.jar;2.0.0-pre2;Dungeon Dim;#
+Remove;dungeons_plus-1.16.5-1.1.4.jar;2.0.0-pre2;Dungeons Plus;Structure Gel
+Remove;EnhancedVisuals_v1.3.28_mc1.16.5.jar;2.0.0-pre2;EnhancedVisuals;CreativeCore
+Remove;fancymenu_2.0.7_MC_1.16.2-1.16.5.jar;2.0.0-pre2;Fancy Menu;Konkrete
+Remove;geckolib-forge-1.16.5-3.0.35.jar;2.0.0-pre2;Geckolib;#
+Remove;HardcoreRevival_1.16.3-5.2.0.jar;2.0.0-pre2;Hardcore Revival;#
+Remove;improvedmobs-1.16.4-1.7.6.jar;2.0.0-pre2;Improved Mobs;TenshiLib Core
+Remove;jei-1.16.5-7.7.0.98.jar;2.0.0-pre2;JEI;#
+Remove;kotlinforforge-1.12.0-obf.jar;2.0.0-pre2;Kotlin for Forge;#
+Remove;logprot-1.16-1.3.jar;2.0.0-pre2;Login Protection;#
+Remove;mcw-doors-1.0.2-mc1.16.5.jar;2.0.0-pre2;More Doors;#
+Remove;minecolonies-0.14.189-BETA-universal.jar;2.0.0-pre2;Minecolonies;Structurize
+Remove;moreminecarts-1.1.6.jar;2.0.0-pre2;More Minecarts;#
+Remove;morered-1.16.5-2.1.0.3.jar;2.0.0-pre2;More Redstone;#
+Remove;NaturesCompass-1.16.5-1.8.6.jar;2.0.0-pre2;Natures Compass;#
+Remove;obfuscate-0.6.1-1.16.3.jar;2.0.0-pre2;Obfuscate;#
+Remove;OfflineSkins-1.16.5-v1a.jar;2.0.0-pre2;Offline Skins;#
+Remove;Origins-1.16.5-0.7.1.3-forge.jar;2.0.0-pre2;Origins;Cloth Config
+Remove;Quark-r2.4-311.jar;2.0.0-pre2;Quark;AutoRegLib
+Remove;repurposed_structures-1.16.5-2.6.6-forge.jar;2.0.0-pre2;Repurposed Structures;#
+Remove;Shrink-1.16.4-1.0.7.jar;2.0.0-pre2;Shrink;#
+Remove;sophisticatedbackpacks-1.16.4-2.4.0.259.jar;2.0.0-pre2;Sophisticated Backpacks;#
+Remove;spark-forge.jar;2.0.0-pre2;Spark;#
+Remove;stoneholm-1.2.1.jar;2.0.0-pre2;StoneHolm;Cloth Config
+Remove;structurize-0.13.174-ALPHA-universal.jar;2.0.0-pre2;Structurize;#
+Remove;theoneprobe-1.16-3.0.7.jar;2.0.0-pre2;The One Probe;#
+Remove;tinyredstone-1.16.5-1.8.2.jar;2.0.0-pre2;Tiny Redstone;#
+Remove;Upgraded+Netherite+1.16.5+-+1.9.3.jar;2.0.0-pre2;Upgraded Netherite;#
+Remove;valhelsia_core-16.0.8.jar;2.0.0-pre2;Valhelsia Core;#
+Remove;valhelsia_structures-1.16.5-0.1.1.jar;2.0.0-pre2;Valhelsia Structures;Valhelsia Core
+Remove;Waddles-1.16.5-0.8.12.jar;2.0.0-pre2;Waddles;#
+Remove;Waystones_1.16.5-7.5.1.jar;2.0.0-pre2;Waystones;#
+Remove;stoneholm-1.2.2.jar;2.0.0-pre2;StoneHolm;Cloth Config
+Remove;realisticbees_1.16.5-1.2.jar;2.0.0-pre2;Realistic Bees;#
+Remove;CosmicNPCs-1.16.4-1.3.0.jar;2.0.0-pre3;CosmicNPCs;#
+Remove;timecontrol-1.16.5-1.1.1.0.jar;2.0.0-pre3;Time Control;#
+Remove;Placebo-1.16.4-4.4.5.jar;2.0.0-pre2;Placebo;#
+Remove;rhino-1.7.13-build.24.jar;2.0.0-pre2;Rhino Core;Architectury
+Remove;rereskillable-1.16.5-1.2.2.jar;2.0.0-pre2;Reskillable;#
+Remove;OreExcavation-1.8.157.jar;2.0.0-pre1;Ore Excavation;#
+Remove;savageandravage-1.16.5-3.1.0.jar;2.0.0-pre1;Savage and Ravage;Abnormals Core
+Remove;xercamusic-1.16.5-1.4.jar;2.0.0-pre1;Music Maker;#
+Remove;Safechat-1.16.4.jar;2.0.0-pre1;Safechat;#
+Remove;EyesInTheDarkness-1.16.5-1.0.2.jar;2.0.0-pre1;Eyes in the darkness;#
+Remove;HerdMentality-1.16.5-6.0.2.jar;2.0.0-pre1;Herd Mentality;Bookshelf
+Remove;immersive-portals-0.16-mc1.16.5-forge.jar;2.0.0-pre1;Immersive Portals;#
+Remove;overloadedarmorbar-5.1.0.jar;2.0.0-b10;Overloaded Armor;#
+Remove;ars_nouveau-1.16.4-1.16.2.jar;2.0.0-b10;ARS Nouveau;Geckolib
+Remove;markscoin-1.2-1.16.5.jar;2.0.0-b10;Marks Coin mod;#
+Remove;modular-routers-1.16.5-7.4.0-55.jar;2.0.0-b10;Modular Routers;#
+Remove;Pyromancer+1.4.1.jar;2.0.0-b10;Pyromancer;#
+Remove;3rd+life+(1.16.5)+1.0.3.jar;2.0.0-b10;3rd life;#
+Remove;BadMobs-1.16.5-9.0.3.jar;2.0.0-b10;Bad Mobs;#
+Remove;fastbenchminusreplacement-1.4.jar;2.0.0-b10;Fast Bench minus replacement;Placebo
+Remove;appliedenergistics2-8.2.0.jar;2.0.0-b10;Applied Energistics;#
+Remove;architectury-1.12.148-forge.jar;2.0.0-b10;Architectury;#
+Remove;Artifacts-1.16.5-2.8.4.jar;2.0.0-b10;Artifacts;Curios
+Remove;Artifacts-1.15.2-2.5.3.jar;2.0.0-b10;Artifacts;Curios
+Remove;BetterCaves-Forge-1.16.4-1.1.1.jar;2.0.0-b10;Better Caves;Yung API
+Remove;BetterStrongholds-1.16.4-1.0.1.jar;2.0.0-b10;Better Strongholds;Yung API
+Remove;bigbrain-1.2.2.jar;2.0.0-b10;Big Brain;#
+Remove;Bookshelf-1.16.5-10.0.1.jar;2.0.0-b10;Bookshelf;#
+Remove;byg-1.2.3.jar;2.0.0-b10;Oh The Biomes You'll Go;#
+Remove;cloth-config-4.11.24-forge.jar;2.0.0-b10;Cloth Config;#
+Remove;colytra-forge-1.16.5-5.1.1.0.jar;2.0.0-b10;Colytra;Caelus Core
+Remove;CraftTweaker-1.16.5-7.1.0.261.jar;2.0.0-b10;CraftTweaker;#
+Remove;crashutilities-3.8.1.jar;2.0.0-b10;Crash Utilities;#
+Remove;createaddition-1.16.5-20210504a.jar;2.0.0-b10;Create - Additions;Create
+Remove;CreativeCore_v1.10.59_mc1.12.2.jar;2.0.0-b10;CreativeCore;#
+Remove;cursery-1.9-1.16.5.jar;2.0.0-b10;Cursery;#
+Remove;EnhancedVisuals_v1.3.27_mc1.16.5.jar;2.0.0-b10;EnhancedVisuals;CreativeCore
+Remove;fancymenu_2.0.6-1_MC_1.16.2-1.16.5.jar;2.0.0-b10;Fancy Menu;Konkrete
+Remove;jei-1.16.5-7.6.4.90.jar;2.0.0-b10;JEI;#
+Remove;minecraft2discord-forge-1.16.x-3.0.11.jar;2.0.0-b10;MC2Discord;#
+Remove;moreminecarts-1.02.jar;2.0.0-b10;More Minecarts;#
+Remove;Origins-1.16.5-0.7.1.2-forge.jar;2.0.0-b10;Origins;Cloth Config
+Remove;Patchouli-1.16.4-50.jar;2.0.0-b10;Patchouli;#
+Remove;performant-1.16.2-5-3.55m.jar;2.0.0-b10;Performant;#
+Remove;Placebo-1.16.4-4.4.2.jar;2.0.0-b10;Placebo;#
+Remove;rereskillable-1.16.5-1.2.1.jar;2.0.0-b10;Reskillable;#
+Remove;rhino-1.7.13-build.23.jar;2.0.0-b10;Rhino Core;Architectury
+Remove;rsgauges-1.16.4-1.2.9.jar;2.0.0-b10;Gauges and Switches;#
+Remove;simpleplanes-1.16.5-4.2.5.jar;2.0.0-b10;Simple Planes;#
+Remove;Upgraded+Netherite+1.16.4+-+1.8.1.jar;2.0.0-b10;Upgraded Netherite;#
+Remove;Waystones_1.16.5-7.4.0.jar;2.0.0-b10;Waystones;#
+Remove;WorldPreGenerator-1.16.5-1.0.0.jar;2.0.0-b10;World PreGen;#
+Remove;xlpackets-1.1.jar;2.0.0-b10;XL Packet;#
+Remove;EndlessOcean-1.0.4-1.16.x.jar;2.0.0-b10;Endless Ocean;Geckolib
+Remove;CalemiUtils-1.16.4-1.1.1.jar;2.0.0-b10;Calemi Utils;#
+Remove;nohostislesaroundcampfire_1.16.5-3.2.jar;2.0.0-b10;No Hostiles around Campfires;Collective
+Remove;cuneiform-1.16.3-1.2.4.jar;2.0.0-b10;Cuneiform;#
+Remove;terraincognita-1.16.3-1.6.4.1.jar;2.0.0-b10;Terra Incognita;Cuneiform
+Remove;Bountiful+Baubles+FORGE-1.16.3-0.0.2.jar;2.0.0-b10;BountifulBaubles;Curios Core
+Remove;kubejs-1605.3.6-build.176-forge.jar;2.0.0-b10;Kube JS;#
+Remove;AdHooks-1.16.4-6.1.3.1-build.0039.jar;2.0.0-b10;Adv Hooks;Forge Endertech
+Remove;AmbientSounds_v3.1.5_mc1.16.5.jar;2.0.0-b10;Ambient Sounds;CreativeCore
+Remove;architectury-1.9.134-forge.jar;2.0.0-b10;Architectury;#
+Remove;Artifacts-1.16.5-2.8.3.jar;2.0.0-b10;Artifacts;Curios
+Remove;atmospheric-1.16.4-3.0.0.jar;2.0.0-b10;Atmospheric;Abnormals Core
+Remove;backpacked-1.8.1-1.16.3.jar;2.0.0-b10;Backpacked;Obfuscate
+Remove;backpacker-1.2.2-1.16.3.jar;2.0.0-b10;Backpacker;Backpacked
+Remove;betteranimalsplus-1.16.4-10.1.0.jar;2.0.0-b10;Better Animals+;#
+Remove;betterbiomeblend-1.16.4-1.1.3-forge.jar;2.0.0-b10;Better Biome Blend;#
+Remove;BetterBurning-1.16.5-6.0.2.jar;2.0.0-b10;Better Burning;#
+Remove;BetterMineshafts-Forge-1.16.4-2.0.2.jar;2.0.0-b10;Better Mineshafts;Yungs Core
+Remove;byg-1.1.12.jar;2.0.0-b10;Oh The Biomes You'll Go;#
+Remove;Clumps-6.0.0.17.jar;2.0.0-b10;Clumps;#
+Remove;collective-1.16.5-2.24.jar;2.0.0-b10;Collective;#
+Remove;colytra-forge-1.16.4-5.1.0.0.jar;2.0.0-b10;Colytra;Caelus Core
+Remove;CraftTweaker-1.16.5-7.1.0.158.jar;2.0.0-b10;CraftTweaker;#
+Remove;create-mc1.16.3_v0.3e.jar;2.0.0-b10;Create;#
+Remove;createaddition-1.16.4-20210303a.jar;2.0.0-b10;Create - Additions;Create
+Remove;CreativeCore_v2.1.0_mc1.16.5.jar;2.0.0-b10;CreativeCore;#
+Remove;cuneiform-1.16.3-1.2.3.1.jar;2.0.0-b10;Cuneiform;#
+Remove;curios-forge-1.16.5-4.0.5.0.jar;2.0.0-b10;Curios Core;#
+Remove;dimdungeons-1.093-forge-1.16.5.jar;2.0.0-b10;Dungeon Dim;#
+Remove;dungeons_plus-1.16.4-1.1.3.jar;2.0.0-b10;Dungeons Plus;Structure Gel
+Remove;DynamicSurroundings-1.16.4-4.0.3.12.jar;2.0.0-b10;Dynamic Surroundings;#
+Remove;Easy+Shulker+Access-1.16.5-1.1.jar;2.0.0-b10;Easy Shulker Access;#
+Remove;enhancedcelestials-1.0.1-1.16.4.jar;2.0.0-b10;Enhanced Celestials;#
+Remove;EnhancedVisuals_v1.3.25_mc1.16.5.jar;2.0.0-b10;Enhanced Visuals;CreativeCore
+Remove;fancymenu_2.0.3_MC_1.16.2-1.16.5.jar;2.0.0-b10;Fancy Menu;Konkrete
+Remove;fastbenchminusreplacement-1.3.jar;2.0.0-b10;Fast Bench -R;Placebo
+Remove;FluxNetworks-1.16.5-6.1.6.11.jar;2.0.0-b10;Flux Network;#
+Remove;ForgeEndertech-1.16.4-7.0.10.0-build.0037.jar;2.0.0-b10;Forge Endertech;#
+Remove;ftb-chunks-1605.2.3-build.71.jar;2.0.0-b10;FTB - Chunks;Architectury
+Remove;HerdMentality-1.16.5-6.0.1.jar;2.0.0-b10;Herd Mentality;Bookshelf Core
+Remove;horsestandstill-1.16.3-1.0.1.jar;2.0.0-b10;Horse Stay;#
+Remove;ImprovedMobs-1.16.3-1.7.3.jar;2.0.0-b10;Improved Mobs;TenshiLib Core
+Remove;InventoryHud_[1.16.2-1.16.5].forge-3.2.2.jar;2.0.0-b10;Inventory Hud +;#
+Remove;ItemPhysic_v1.4.17_mc1.16.5.jar;2.0.0-b10;Item Physics;CreativeCore
+Remove;jei-1.16.5-7.6.1.75.jar;2.0.0-b10;JEI;#
+Remove;konkrete_1.1.5_MC_1.16.2-1.16.5.jar;2.0.0-b10;Konkrete;#
+Remove;kotlinforforge-1.10.0-obf.jar;2.0.0-b10;Kotlin for Forge;#
+Remove;minecraft2discord-forge-1.16.x-3.0.3.jar;2.0.0-b10;Discord Chat connection;#
+Remove;modular-routers-1.16.3-7.2.0-39.jar;2.0.0-b10;Modular Routers;#
+Remove;morered-1.16.4-2.0.1.3.jar;2.0.0-b10;More Redstone;#
+Remove;obfuscate-0.6.0-1.16.3.jar;2.0.0-b10;Obfuscate;#
+Remove;OreExcavation-1.8.155.jar;2.0.0-b10;Ore Excavation;#
+Remove;PassableFoliage-1.16.4-2.2.0.jar;2.0.0-b10;Passable Foliage;#
+Remove;performant-1.16.2-4-3.30m.jar;2.0.0-b10;Performant;#
+Remove;Placebo-1.16.4-4.4.1.jar;2.0.0-b10;Placebo;#
+Remove;playertrackingcompass_1.16.5-1.5.jar;2.0.0-b10;Player Tracking Compass;Collective
+Remove;Quark-r2.4-308.jar;2.0.0-b10;Quark;AutoRegLib
+Remove;reliquary-1.16.3-1.3.4.1061.jar;2.0.0-b10;Reliquary;#
+Remove;repurposed_structures-1.16.5-2.5.1.jar;2.0.0-b10;Repurposed Structures;#
+Remove;rhino-1.7.13-build.14.jar;2.0.0-b10;Rhino Core;Architectury
+Remove;rsgauges-1.16.4-1.2.8.jar;2.0.0-b10;Redstone Gauges;#
+Remove;SaveMyStronghold-1.16.4-1.0.jar;2.0.0-b10;Save Strongholds;Yung API
+Remove;SimpleJail-1.16--1.1.jar;2.0.0-b10;Simple Jail;#
+Remove;simpleplanes-1.16.4-4.1.2.jar;2.0.0-b10;Simple Planes;#
+Remove;sophisticatedbackpacks-1.16.4-2.2.7.219.jar;2.0.0-b10;Sophisticated Backpacks;#
+Remove;SpartanWeaponry-1.16.4-2.1.0-beta-3.jar;2.0.0-b10;Spartan Weaponry;#;BETA
+Remove;structure_gel-1.16.4-1.7.5.jar;2.0.0-b10;Structure Gel;#
+Remove;TerraForged-1.16.4-0.2.9.jar;2.0.0-b10;TerraForged;#
+Remove;terraincognita-1.16.3-1.6.1.1.jar;2.0.0-b10;Terra Incognita;Cuneiform
+Remove;ToolBelt-1.16.3-1.15.2.jar;2.0.0-b10;Tool Belt;#
+Remove;twoplayersonehorse-1.16.4-2.0.0.jar;2.0.0-b10;Two Players One Horse;#
+Remove;upgrade_aquatic-1.16.5-3.0.1.jar;2.0.0-b10;Upgrade Aquatic;Abnormals Core
+Remove;Vanilla-Builders-Extension-1.16.4-1.0.13.jar;2.0.0-b10;Vanilla Builders Extension;#
+Remove;VTweaks-1.16.4-3.4.2.jar;2.0.0-b10;V-Tweaks;#
+Remove;Waddles-1.16.4-0.8.11.jar;2.0.0-b10;Waddles;#
+Remove;worldedit-mod-7.2.4.jar;2.0.0-b10;WorldEdit;#
+Remove;xercamusic-1.16.5-1.3.jar;2.0.0-b10;Music Maker;#
+Remove;YungsApi-1.16.4-Forge-4.jar;2.0.0-b10;Yung API;#

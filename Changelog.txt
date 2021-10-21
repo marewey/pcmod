@@ -1,0 +1,918 @@
+2.0.0:
+ * Applied Energistics
+ * Blame
+ * Clumps
+ * CraftTweaker
+ * Create - Additions [Create]
+ * Cursery
+ * Item Collectors
+ * Marks Coin mod
+ * Origins [Cloth Config]
+ * Patchouli
+ * Polymorph
+ * Quark [AutoRegLib]
+ * Reliquary
+ * Repurposed Structures
+ * Road stuff
+ * SecurityCraft
+ * Shrink mod
+ * Silent Gear [Silent Lib]
+ * TerraForged
+ * Upgraded Netherite
+ * Valhelsia Structures [Valhelsia Core]
+** Abnormals Core
+** Architectury
+** Kotlin for Forge
+** Mapperbase Core
+C* Apple Skin
+C* Better Biome Blend
+C* Better Third Person
+C* Controlling
+C* Fancy Menu [Konkrete]
+C* Light Overlay
+
+2.0.0-pre4:
+ - Crafting Dead
+ - Crafting Dead Survival [Crafting Dead]
+ - Minecolonies [Structurize]
+ - Structurize
+ + Vending Machine
+
+2.0.0-pre3:
+ - CosmicNPCs
+ + Taterzens
+ - Time Control
+
+2.0.0-pre2:
+C+ Light Overlay
+C+ Better Third Person
+ - Reskillable
+ - Rhino Core [Architectury]
+ - Placebo
+ - StoneHolm [Cloth Config]
+ - Realistic Bees
+ * Ad Hooks [Forge Endertech]
+** Architectury
+ * Artifacts [Curios+Expandability]
+** AutoRegLib
+ * Backpacked [Obfuscate]
+ * Backpacker [Backpacked]
+ * Better Burning
+S* Better Mineshafts [Yungs Core]
+ * Big Brain
+ * Blame
+** Bookshelf
+ * Oh The Biomes You'll Go
+ * Carry On
+ * Computer Craft
+ * Furniture [Obfuscate]
+ * Clumps
+C* Controlling
+ * Corpse
+ * Cosmetic Armor
+ * Crafting Dead
+ * Crafting Dead Survival [Crafting Dead]
+ * CraftTweaker
+** CreativeCore
+** Curios
+C* Default Options
+ * Dungeon Dim
+ * Dungeons Plus [Structure Gel]
+ * EnhancedVisuals [CreativeCore]
+C* Fancy Menu [Konkrete]
+** Geckolib
+ * Hardcore Revival
+S* Improved Mobs [TenshiLib Core]
+ * JEI
+** Kotlin for Forge
+ * Login Protection
+ * More Doors
+ * Minecolonies [Structurize]
+ * More Minecarts
+ * More Redstone
+ * Natures Compass
+** Obfuscate
+C* Offline Skins
+ * Origins [Cloth Config]
+ * Shrink mod
+C* Performant
+ * Quark [AutoRegLib]
+ * Repurposed Structures
+ * Sophisticated Backpacks
+ * Spark
+ * Spelled
+** Structurize
+ * The One Probe
+ * Tiny Redstone
+ * Upgraded Netherite
+** Valhelsia Core
+ * Valhelsia Structures [Valhelsia Core]
+ * Waddles
+ * Waystones
+
+2.0.0-pre1:
+ + Blame
+ - Eyes in the darkness
+ + Forgiving Void
+ + FTB - Ultimine []
+ - Herd Mentality [Bookshelf]
+ - Immersive Portals
+ - Ore Excavation
+ + Patchouli
+ - Safechat
+ - Savage and Ravage [Abnormals Core]
+ - Music Maker
+
+2.0.0-pre:
+** World Reset
+** Updated to 1.16.5
+** Cleared all mods, and started from scratch
+*+ Abnormals Core
+ + Ad Hooks [Forge Endertech]
+C+ Ambient Sounds [CreativeCore]
+C+ Apple Skin
+ + Applied Energistics
+ + Archers Paradox [COFH Core]
+*+ Architectury
+ + Artifacts [Curios+Expandability]
+ + Astikorcarts
+ + Atmospheric [Abnormals Core]
+ + Attribute Fix
+*+ AutoRegLib
+ + Backpacked [Obfuscate]
+ + Backpacker [Backpacked]
+ + Balanced Enchanting
+S+ Bed Benefits [Bookshelf]
+ + Better Animals+
+C+ Better Biome Blend
+ + Better Burning
+S+ Better Caves [Yung API]
+ + Better Drowning [Bookshelf]
+S+ Better Mineshafts [Yungs Core]
+C+ Better Ping Display
+S+ Better Spawner Control [Collective]
+S+ Better Strongholds [Yung API]
+ + Big Brain
+*+ Bookshelf
+ + Bountiful [Kotlin Core]
+C+ Bad Wither No Cookie
+ + Oh The Biomes You'll Go
+*+ Caelus
+ + Camera
+ + Carry On
+ + Computer Craft
+ + Furniture [Obfuscate]
+ + Gun Mod
+ + Clean Cut
+*+ Cloth Config
+ + Clumps
+*+ COFH Core
+*+ Collective
+ + Colytra [Caelus Core]
+S+ Config despawn timer [Collective]
+C+ Controlling
+ + Corpse
+ + Cosmetic Armor
+ + CosmicNPCs
+ + Crafting Dead
+ + Crafting Dead Server Core [Crafting Dead]
+ + Crafting Dead Virus [Crafting Dead]
+ + CraftTweaker
+S+ Crash Utilities
+ + Create
+ + Create - Additions [Create]
+*+ CreativeCore
+S+ Crying Ghasts [Collective]
+*+ Curios Core
+ + Cursery
+ + Damage Tilt
+S+ Death Backup [Collective]
+C+ Default Options
+ + Dungeon Dim
+ + Dungeons Plus [Structure Gel]
+C+ Dynamic Surroundings
+ + Easy Shulker Access
+ + Easy Elytra Takeoff
+ + Emojiful
+ + Enhanced Celestials
+ + EnhancedVisuals [CreativeCore]
+*+ Expandability
+ + Extra Boats [Abnormals Core]
+ + Eyes in the darkness
+C+ Fancy Menu [Konkrete]
+ + Faster Ladder Climbing
+S+ Fast Leaf Decay
+S+ Fixed Anvil Repair Cost [Collective]
+ + Flux Network
+*+ Forge Endertech
+ + Forgiveness
+ + FTB - Backup [Architectury]
+ + FTB - Chunks [Architectury]
+ + FTB - Essentials [Architectury]
+ + FTB - GUI [Architectury]
+ + FTB - Ranks [Architectury]
+ + FTB - Teams [Architectury]
+*+ Geckolib
+ + Gems and Jewels
+S+ Giant Spawn
+ + Go Prone
+S+ Grindstone Sharpener [Collective]
+ + Guard Villagers
+S+ Happy Trails
+ + Hardcore Revival
+ + Hearthstone
+S+ Herd Mentality [Bookshelf]
+S+ Horse Stay
+ + Hardcore Questing Mod
+ + Immersive Portals
+S+ Improved Mobs [TenshiLib Core]
+ + Infinite Firework
+S+ Instant Unify
+C+ Inventory Hud +
+ + Item Collectors
+ + Item Physics [CreativeCore]
+ + JEI
+C+ JEI - Integrations
+C+ JER
+ + Klee Slabs
+C+ Konkrete
+*+ Kotlin for Forge
+ + LevelHearts
+S+ Limited Lives
+S+ Login Protection
+*+ Lollipop
+ + Lost Trinkets [Lollipop]
+ + Mana and Artifice [Geckolib]
+*+ Mapperbase Core
+ + Marks Coin mod
+ + MCW Bridges
+ + More Doors
+ + MCW Fences
+ + MCW Roofs
+ + MCW Windows
+ + Mekanism
+ + Mekanism - Additions
+ + Mekanism - Generators
+ + Mekanism - Tools
+ + Minecolonies [Structurize]
+S+ MC2Discord
+ + Modifiers
+ + More Minecarts
+ + More Redstone
+S+ Morpheus
+S+ Mounted Pearl
+ + Mouse Tweak
+ + Natures Compass
+S+ NetherPortalFix
+C+ Notes
+*+ Obfuscate
+C+ Offline Skins
+C+ Optifine
+ + Ore Excavation
+ + Origins [Cloth Config]
+ + Pam Crops [Pam Core]
+ + Pam Core
+ + Pam Food [Pam Core]
+ + Pandoras Creatures
+ + Passable Foliage
+ + Patchouli
+ + Performant
+ + Pillagers
+*+ Placebo
+ + Player Tracking Compass [Collective]
+ + Polymorph
+ + Pretty Beaches
+ + Progressive Bosses
+ + Quark [AutoRegLib]
+ + Quark - Oddities [Quark]
+S+ Quick paths [Collective]
+ + RandomPatches
+ + Realistic Bees
+ + Reliquary
+ + Repurposed Structures
+ + Reskillable
+S+ Respawning Shulkers
+*+ Rhino Core [Architectury]
+ + Roadstuff
+ + Gauges and Switches
+C+ Safechat
+ + Savage and Ravage [Abnormals Core]
+ + Secret Rooms
+ + Shrink
+ + Silent Gear [Silent Lib]
+*+ Silent Lib
+ + Simple Jail
+ + Simple Planes
+C+ Smooth Boot
+ + Sneaky Magic
+S+ Softer Hay Bales [Collective]
+ + Spice of Life: Potato
+ + Sophisticated Backpacks
+C+ Sound Device Options
+C+ Sound Filters
+ + Spark
+ + Spartan Weaponry
+ + Spelled
+ + Spiders 2.0
+S+ Starter Kit [Collective]
+ + StoneHolm [Cloth Config]
+*+ Structure Gel
+*+ Structurize
+S+ TenshiLib Core
+ + TerraForged
+ + The One Probe
+ + Time Control
+ + Tiny Redstone
+ + Tool Belt
+ + Two Players One Horse
+ + Upgraded Netherite
+ + Upgrade Aquatic [Abnormals Core]
+ + Valhelsia Core
+ + Valhelsia Structures [Valhelsia Core]
+ + Vanilla Builders Extension
+ + Vehicles [Obfuscate]
+S+ Villagers Follow Emeralds
+ + V-Tweaks
+ + Waddles
+ + Wall Jump
+ + Waystones
+S+ World Edit
+ + World PreGen
+ + Music Maker
+*+ Yung API
+ + SecurityCraft
+
+1.9.4b:
++ AutoSwitch (ThebombzenAPI)
++ CombinedPotions
++ CustomNPCs
++ FastLeafDecay
++ MusicCraft
++ Overlord
++ ProgressiveAutomation
++ WoodConverter
++ chameleoncreepers
++ netherite
++ petbuddy
++C Calculations
++C LagGoggles (TickCentral)
+- BetterBuildersWands
+- Bloodmoon
+- Covid19
+- Herobrine
+- MouseTweaks
+- OpenComputers
+- ServerRedirect
+- JustFashion
+
+1.9.4a:
++ bewitchment
++ ido
++ mcracetrack
++ megaloot
++ ProjectRed World
++ Just Fashion
++ MouseTweaks
++ signpost
++ Core Mods
+*	librarianlib
+*	QuarkOddities
+*	tinkersjei
+*	jev
+*	Patchouli
+* IC2Classic to IC2
++ 3 SECRET Mods
+- BetterDiving
+* Crash reporting System
+
+1.9.4:
++ BadMobs
++ BetterBurning
++ BetterMineshaftsForge
++ Bloodmoon
++ ChickenASM
++ IC2Classic
++ ImprovedMobs (TenshiLib)
++ LootBags
++ Psi (MagicalPsi)
++ Reliquary
++ UncraftingTable
++ backpack
++ betteranimalsplus
++ corpsecomplex
++ fluxnetworks
++ globalxp
++ iblis-headshots
++ levelhearts
++ modular-routers
++ softhaybales
++ smallernetherportal
++ techguns
++ villagerdeathmsg
++ vilnames
++ weakerspwbs
++ zombieawareness
++ zombiehorsespawn
+- BetterFoliage
+- Chocolate Quest
+- CoFHCore
+- CoFHWorld
+- ExtraSpells
+- InfernalMobs
+- JustEnoughCalculation
+- LittleTiles
+- NuclearCraft
+- RedstoneFlux
+- RoguelikeDungeons
+- SnowRealMagic
+- TFSpellPack
+- The+Beneath
+- ThermalFoundation (Expansion/Dynamics)*
+- TinkerToolLeveling
+- TreeChopper
+- XPFromHarvest
+- DeconTable
+- astikorcarts
+- banhammer
+- conarm
+- extrautils2
+- hopperducts
+- industrialforegoing (tesla-core-lib)
+- locks
+- petname
+- scarper
+- twilightforest
+* Minor Bug Fixes
+* World Reset
+
+1.9.3f:
+- Aquaculture
+- Entitled
++ OpenComputers
++ roadrunner
++ walljump
+- worldutils
+
+1.9.3e:
++ ChickenASM
++ CoFHCore
++ CoFHWorld
++ RedstoneFlux
++ ThermalExpansion
++ ThermalFoundation
+
+1.9.3c:
++ banhammer
++ ItemBlacklist
+- BetterMineshaftsForge
+- confdespawnt
+- cycp
+- Dungeons2
+- easyelytrato
+- GottschCore
+- LootTweaker
+- minecolonies
+- MoreLootStuff
+- OTG-Flatlands
+- tardis
+
+1.9.3a:
++ ccm
++ worldutils
++ EnderMail
++ industrialforegoing (tesla core)
++ OTG-Flatlands
++ tweakersconstruct
+- Advanced Rocketry (LibVulpes)
+- despeggshatch
+- EnderStorage
+- nethergoldore
+- RebornCore
+- sekcphysics
+- uniquedungeons
+- xptome
+* Bug Fixes
+
+1.9.3:
+* CraftTweaker2
++ AdvancedRocketry (LibVulpes)
++ appliedenergistics2
++ XpClumps
++ conarm
++ confdespawnt
++ cyclepaint
++ DefaultOptions
++ despeggshatch
++ easyelytrato
++ Emojicord
++ Entitled
++ petnames
+- Mutant Beasts
+- Doggy Talents
+
+1.9.2f:
++ Aquaculture
++ ctrades
++ Dungeons2
++ GottschCore
++ LittleTiles
++ tardis
++ twilightforest (+TFSpellPack)
++ uniquedungeons
++ ServerRedirect
+* CreativeCore
+* Online Picture Frame
+- FishingMadeBetter-1.12.2-1.1.3.jar
+- SereneSeasons
+- StevesCarts
+- thuttech (thutcore)
+- campfire
+
+1.9.2e:
+* Chocolate Quest
+* xpfromharvest
+- DimensionalDoors
+- oreberries
+
+1.9.2c:
+- Labyrinth
+- Grue (DarknessLib)
+- notreepunching (alcatrazcore)
+- Xaeros_Minimap
+- ido
+C FancyBlockParticles
++ DimensionalDoors
++ The Beneath
++ DimensionalDoors
++ LootTweaker
++ MoreLootStuff
++ BetterDiving
++ EnderStorage
++ furniture
++ journeymap
++ Mekanism
++ MultiMine
++ MutantBeasts
++ NetherEx (LibraryEx)
+
+1.9.2b:
+- ClientTweaks
+- Respawnable Pets
+- dailies
+- ChunkAnimator
+- controllable
+- Customized Dungeon Loot
++ extrautils2
++ hopperducts
++ MobsPropertiesRandomness
++ OpenBlocks (OpenModsLib)
++ oreberries
++ VeinMiner
++ xptome
++ nethergoldore
++ ProgressiveBosses
++ Labyrinth
++ Grue (DarknessLib)
+
+1.9.2a:
+* Updated the Following client mods...
+ * DynamicSurroundings
+ * DynamicSurroundingsHuds
+ * MoBends
+ * SoundFilters
+* Downgraded EnhancedVisuals
+
+1.9.2:
+* Updated the following Mods...
+ * backpacked
+ * bettercaves
+ * carryon
+ * Chocolate Quest Repoured
+ * colytra
+ * ElectroblobsWizardry
+ * EnhancedVisuals
+ * FTBLib
+ * FTBUtilities
+ * ItemPhysic_Full
+ * jei
+ * levelup2
+ * locks
+ * Mantle
+ * notreepunching
+ * Quark
+ * TConstruct
+* Bug Fixes
+
+1.9.1c:
++ BetterMineshafts
+- Gun Mod
++ Customized Dungeon Loot
++ malisisdoors (malisiscore)
++ thuttech (thutcore)
++ TinkerToolLeveling
++ Extra Spells
++ Vanilla Builders Extension
++ Draconic-Evolutio (RedstoneFlux BrandonsCore)
+* New Player Online notification system
+
+1.9.1b:
+- Augmented Interactions
+- Flan's Mod
+- LittleTiles
++ Vehicle Mod (obfuscate)
++ Gun Mod (obfuscate)
+
+1.9.1:
++ Respawn Pets
++ Augmented Interactions
++ Client Tweaks
+- resizingpotion (ArtemisLib)
+- MobController
+- SwingThroughGrass
+
+1.9.0c:
+* Improved Update process to reduce download size
++ DoggyTalents
++ MobController
++ resizingpotion (ArtemisLib)
+
+1.9.0b:
+- Player Revive
+- Better Portals
++ Hardcore Revival
+
+1.9.0a:
+* Update CreativeCore
+- Village and Pillage
+
+1.9.0:
+* Reset the modpack and world
++ #Libloader
++ DeconTable
++ anvilpatch
++ Architecturecraft
++ astikorcars
++ Backpacked
++ Baubles
++ Better Caves
++ Better FPS
++ Better Portals (ForgeLin)
++ Campfire
++ Carry On
++ Chocolate Quest (llibrary)
++ CodeChickenCore
++ Colytra
++ CraftTweeker
++ Dailies
++ Electroblobs Wizardry
++ Enhanced Visuals
++ Fishing Made Better
++ Flans Mod
++ Foamfix
++ FTB Util (FTB Lib)
++ Hwyla
++ Ido
++ Infernal Mobs
++ Item Physics
++ Kinetic Anti-Cheat
++ Level Up 2
++ LittleTiles (Creative Core)
++ Locks
++ Minecolonies
++ More Sound Config
++ No More Recipe Conflict
++ No Tree Punching (Alcatraze Core)
++ Online Picture Frame
++ Optifine
++ Player Revive
++ Quality Tools (Potion Core)
++ Quark (AutoRegLib)
++ Railcraft
++ Roguelike Dungeons
++ Save my strongholds
++ Scarper
++ Serene Seasons
++ Server Observer
++ Snow Real Magic
++ Spawn Temple
++ Steves Carts (Reborn Core)
++ Swing Through Grass
++ Sword Blocking Combat
++ TConstruct (Mantles)
++ Tree Chopper
++ Vanilla Vistas (OTG, Open Terrain Generator)
++ Varied Commodities
++ Village and Pillage
++ Xaeros Minimap
++ Xp from Harvest
+* Made linux/mac scripts
+
+1.8.7:
+- Carry On
+- SpartanWeaponry
+- Antique Atlas
+- Pams Harvestcraft
++ Spice of life
+- Snow Accumulation
+- camouflaged creepers
+
+1.8.6:
+- DoggyTalents
+- ProjectE
+- Aether
+- Aquaculture
++ Better FPS
++ Wizard mod
++ Little Tiles
++ thiccentities
++ SwordBlockingCombat
++ Locks
++ NoMoreRecipeConflict
++ More Sound Config
+* Updated Item Physics and Creative Core
+* Bug Fixes in the code
+
+
+1.8.5:
+- Project Red
+- OTG Flatlands
+- heroicarmory
+- MobDismemberment (iChunUtil)
+- LootableBodies
+- MoCreatures (CustomMobSpawner)
+- Galacticraft (MicdoodleCore)
+- specialai
+- zombie_players
+- realrender
+- Better Portals
++ sekcphysics
++ controllable (Controller Support)
++ SnowAccumulation
++ DoggyTalents
++ ido (Swimming)
++ corpse
++ backpacked
++ aether_legacy
++ B3M (Time Adjuster)
++ camouflagedcreepers
++ scarper (Animals Scarper when hit)
++ DoomlikeDungeons
++ ProjectE
++ Mekanism (MekanismGenerators)
++ Flans Mod
+
+1.8.4:
++ Bountiful
++ Zombie Players
++ Zombie Awareness
++ Real Render
++ Better Portals
+
+1.8.3:
++ Red Power (Integration + Mechanical)
++ Architecture Craft
++ Random Patches
++ Server Observer
+- Antique Atlas
+
+1.8.2:
+- Immersive Vehicals (MTS Pack)
++ So Many Enhantments
+* Bug Fixes
+- Flans Mod
+
+1.8.1:
++ Flatlands
++ Better Caves (Save strongholds)
+* World Regen
+* Update Check on open
+
+1.8.0:
++ Immersive Vehicals (MTS Pack)
++ OTG (Vanilla Vista)
+- Traverse (DTTraverse)
+- Reskillable (CompatSkills)
+- Mob Amputation
+- Ordinary Coins
+- Potion Fingers
+- Waystones
+- Ruins
+- Coral
+- Recurrent Complex (IVToolkit)
+- Doom Like Dungouns
+- Rougue like dungouns
+* Updated Open Computers
+
+1.7.5:
++ Galacticraft
++ Flans mod (+3 Packs)
++ Scaling Health
++ Pams Harvestcraft
+- Food Expansion
+
+1.7.4:
+- lycanitesmobs
+- Zoo mod
++ Mo Creatures (Custom Mob Spawner)
++ Special AI
+* Skin fix
+* Improved Update Process
+
+1.7.3:
++ TConstruct (Mantle)
++ Offline Skins
++ xptome
+- Davincis Vessels (Moving World)
+
+1.7.2:
+- Simple Login
++ Mob Dismemberment
++ Mob Amputation
++ iChun Util
+* Bug Fixes
+
+1.7.1:
+- Gravestone Mod
+- Voice Chat
++ Horse Cart Mod
++ Lootable Bodies
++ AnitCheat
++ HeroicArmory
++ Waystones
++ Food Expansion
+* Bug fixes
+
+1.7a:
++ Gravestone Mod
++ Simple Login
++ FTBLib (FTBUtilities)
+* Bug Fixes
+
+1.7:
+- ALL Mods from 1.7.10
+* Updated to 1.12.2
+* Redesigned Launcher
+* Fixed Changelog viewer
+* CMD Code fixes
+* Added Lite mode
++ AntiqueAtlas
++ Aquaculture
++ BattleTowers
++ Baubles (Core/HUD/Trinkets)
++ Better Combat
++ Bloodmood mod
++ Carry Chests/Mobs
++ Furniture Mod
++ Reskillable (Core/CompatSkills)
++ Open Computers (Core/Computronics)
++ Coral Reef
++ Corpecomplex
++ CraftTweeker
++ Davincis Vessels
++ Doom Like Dungeons
++ Dynamic Trees (Core/Traverse)
++ Traverse
++ First Aid mod
++ Global Gamerules
++ Ice and Fire
++ Infernal Mobs
++ Item Physics Full
++ Level Up
++ Lycanites mobs
++ MCA
++ MultiMine
++ No Tree Punching
++ Ordinary Coins
++ Potion Fingers
++ Quality Tools
++ Quark
++ Railcraft
++ Realistic Torches
++ Recurrent Complex
++ Roguelike Dungeons
++ Rough Tweaks
++ Ruins
++ Serense Seasons
++ Spartan Shilds
++ Spartan Weaponry
++ Swing Through Grass
++ Tough As Nails (Core/Spit)
++ Tumbleweed mod
++ Voice Chat mod
++ Wearable Backpacks
++ WolfArmor
++ more XP harvest mod
+C Better Foliage
+C Better Title Screen
+C Chunk Animator
+C Custom Loading Screen
+C Custom Main Menu
+C Dynamic Surrounds (Core/HUD)
+C Enhanced Visuals
+C Ingame Account Switcher
+C ITLT (Custom Icon/Title)
+C JEI
+C Mobends
+C Neat (Mob Healthbars)
+C Optifine
+C Sound Filters

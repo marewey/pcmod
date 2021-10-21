@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=398306%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504306%
+  action = hidebutton
+}
+
+customization {
+  hideforseconds = 0.5
+  orientation = bottom-right
+  hoverlabel = PCMod...
+  buttonaction = opencustomgui
+  x = -100
+  width = 100
+  action = addbutton
+  y = -20
+  label = PCMod
+  value = testextra
+  height = 20
+}
+

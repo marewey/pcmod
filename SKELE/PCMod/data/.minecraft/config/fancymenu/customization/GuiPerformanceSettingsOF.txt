@@ -1,0 +1,12 @@
+type = menu
+
+customization-meta {
+  identifier = net.optifine.gui.GuiPerformanceSettingsOF
+  renderorder = foreground
+}
+
+customization {
+  path = ..\icons\background.png
+  action = texturizebackground
+}
+

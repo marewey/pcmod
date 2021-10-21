@@ -1,0 +1,6 @@
+
+[server]
+	brokenLegsEnabled = false
+	bleedingEnabled = false
+	disableZombies = true
+

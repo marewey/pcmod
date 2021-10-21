@@ -1,0 +1,12 @@
+
+[Commands]
+	#Allows teleporting between dimensions.
+	#Default: true
+	"/dimteleport" = true
+	#Kills all non-player entities.
+	#Default: true
+	"/killall" = true
+	#Deletes all dropped items.
+	#Default: true
+	"/killitems" = true
+

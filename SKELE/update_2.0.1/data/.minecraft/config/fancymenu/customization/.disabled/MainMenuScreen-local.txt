@@ -1,0 +1,210 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = ..\icons\background.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = -17
+}
+
+customization {
+  identifier = %id=400322%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Servers
+}
+
+customization {
+  identifier = %id=400322%
+  action = sethoverlabel
+  label = Server Menu
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  action = sethoverlabel
+  label = Options...
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=502382%
+  action = sethoverlabel
+  label = Quit...
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 0.15
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = -17
+}
+
+customization {
+  identifier = %id=400298%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = Play Local
+}
+
+customization {
+  identifier = %id=400298%
+  action = sethoverlabel
+  label = Local Menu
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 7
+}
+
+customization {
+  identifier = %id=400346%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = Mods
+}
+
+customization {
+  identifier = %id=400346%
+  action = sethoverlabel
+  label = Loaded Mods
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  hideforseconds = 0.5
+  orientation = mid-centered
+  buttonaction = opencustomgui
+  x = -101
+  width = 200
+  action = addbutton
+  y = -40
+  label = Plattecraft
+  value = testextra
+  height = 20
+}
+
+customization {
+  path = ../icons/pcmod.png
+  orientation = mid-centered
+  x = -166
+  width = 330
+  action = addtexture
+  y = -110
+  height = 64
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -58
+  scale = 1.0
+  value = §e§lP§b§lC§3§lMod§r
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  multiline = false
+  x = 41
+  action = addwebtext
+  y = -58
+  scale = 1.0
+  url = http://192.168.0.27/pcmod2/version
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  centered = false
+  x = 2
+  action = addtext
+  y = -49
+  scale = 1.0
+  value = §ePlattecraft §bServer §3Modded Client
+}
+
